@@ -40,7 +40,8 @@ CLARA-RR classifies every sentence in a legal judgment into one of four rhetoric
 
 | Property | Detail |
 |---|---|
-| Dataset | LegalSeg |
+| Dataset | LegalSeg: Unlocking the Structure of Indian Legal Judgments Through Rhetorical Role Classification
+Shubham Kumar Nigam, Tanmay Dubey, Govind Sharma, Noel Shallum, Kripabandhu Ghosh, Arnab Bhattacharya |
 | Documents | 7,120 |
 | Sentences | ~1.4 million |
 | Original Labels | 7 (LegalSeg schema) |
@@ -175,7 +176,7 @@ CLARA-SUMM takes the rhetorical role-labelled sentences produced by CLARA-RR and
 
 | Property | Detail |
 |---|---|
-| Dataset | Legal segmentation dataset (100 documents) |
+| Dataset | Malik et al. dataset (100 documents) |
 | Format | `.txt` / `.tsv` files (tab-separated sentence + label) |
 | Path | Kaggle: `legal-segmentation-100docs/` |
 
