@@ -1,0 +1,117 @@
+Mohta, J. Though the notices under sections 139(2) and 148 of the Income-tax Act and so also certain assessment orders passed by the income-tax authorities are challenged in this batch of petitions, the real controversy centres round a point whether the Market Committee as defined under section 2(j) of the Maharashtra Agricultural Produce Marketing (Regulation) Act, 1963 (APMC Act), is a local authority as contemplated under section 10(20) of the Income-tax Act (I.T. Act).	Issue
+Section 10 which falls in Chapter III of the Income-tax Act gives a long list of incomes not included in total income.	Statute
+One such category is to be found in section 10(20) which reads thus : the income of a local authority which is chargeable under the head Interest on securities, Income from house property, Capital gains or Income from other sources or from a trade or business carried on by it which accrues or arises from the supply of a commodity or service (not being water or electricity) within its own jurisdictional area or from the supply of water or electricity within or outside its own jurisdictional area.	Statute
+The term local authority is not defined under the Income-tax Act, with the inevitable result of the necessity of looking to the General Clauses Act, 1897 (GC Act), which gives the following definition of the term, vide section 3(31).	Statute
+local authority shall mean a municipal committee, district board, body of port commissioners or other authority legally entitled to, or entrusted by the Government with, the control or management of a municipal or local fund.	Statute
+Very clearly, Market Committee is neither a municipal committee nor district board nor a body of port commissioners.	None
+Is it (i) other authority and if yes, (ii) either entitled to or in fact entrusted by the Government with the control or management of a local fund, are the two issues.	Issue
+The first unavoidable exercise would be to examine the scheme of the APMC Act which is the source of its life and existence.	Issue
+Before the APMC Act was brought on the statute book, there operated in the field in various regions which now form the State of Maharashtra (a) Bombay Agricultural Produce Market Act, 1939, (b) The Central Provinces and Berar Agricultural Produce Market Act, 1935, and (c) The Hyderabad Agricultural Produce Market Act, 1939.	Fact
+As a result of the States reorganisation, this consolidated legislation on the subject was brought about.	Fact
+It repealed the enactments mentioned earlier, subject, of course, to the usual provisions in the repeal and saving clause contained in section 64.	Fact
+Its preamble reads thus : Whereas it is expedient to regulate the marketing of agricultural and certain other produce in market areas and markets to be established therefor in the State to confer powers upon Market Committees to be constituted in connection with or acting for purposes connected with such markets to establish Market Fund for purposes of the Market Committees and to provide for purposes connected with the matters aforesaid It is hereby enacted in the Fourteenth Year of the Republic of India as follows.	Statute
+Section 2 (g) defines local authority as including Panchayat Samiti.	Statute
+Under section 4, the State Government is authorised to declare that the marketing of the agricultural produce specified in the notification shall be regulated under the APMC Act, in the specified area.	Statute
+On issuance of such notification, local authorities, notwithstanding anything contained in any other law for the time being in force, are prohibited from establishing authorising, continuing or allowing to be established or continue any place in the market area for the marketing of that agricultural produce.	Statute
+Section 5 provides for establishment of the principal market and subsidiary market in the area section 6 for regulation of marketing of agricultural produce section 7 for grant of licences section 8 for cancelling or suspending licences section 9 for filing an appeal in the matter section 10 for settling disputes between buyers, sellers or their agents including any disputes regarding the quality or weight of, or payment for any agricultural produce, or any matter connected with the regulation of marketing by a Board.	Statute
+Section 11 deals with establishment of market committee.	Statute
+Section 12 mentions that the market committee shall have perpetual succession and a common seal and may in its corporate name sue and be sued.	Statute
+Section 13 gives the constitution of market committee and section 14 provides for election and terms of office of members.	Statute
+Section 14A deals with the constitution of an election fund.	Statute
+Section 29 enumerates the powers and duties of market committee.	Statute
+Market committee is obliged to provide such facility for marketing of agricultural produce in the market as the director may from time to time direct and for that purpose may exercise such powers and perform such duties as are provided under the APMC Act.	Statute
+Sub-section (2) of section 29 gives a list which by no means can be said to be exhaustive.	Statute
+They include (i) regulation of entry of persons and vehicular traffic, (ii) settlement of disputes, (iii) prosecution for violation of the provisions of the Act and rules, (iv) maintenance of the market, (v) acquiring, holding or disposing of properties, (vi) collecting or maintaining information in respect of production, sale, storage, processing, prices and movement of agricultural produce, (vii) taking all possible steps to prevent adulteration and to promote grading and standardisation to enforce provisions of the APMC Act, Rules, bye-laws and conditions of licence, and (viii) to perform such other duties as may be prescribed from time to time.	Statute
+Section 31 contains the power to levy fees and section 32 to take loans subject to certain conditions.	Statute
+Section 34 deals with the settlement of the disputes regarding construction of rules, weights and measures notwithstanding anything contained in the Bombay Weights and Measures (Enforcement) Act, 1958.	Statute
+Chapter VI deals with the market fund.	Statute
+Section 36 provides that all money received by the market committee (barring the fees credited to the election fund under section 14A), all sums realised by way of penalty (excepting fine in a criminal case), all loans raised by the committee, all grants, loans or contributions made by the State Government to the Committee, etc., shall form part of a fund to be called the market fund, the amount to the credit of which can be kept or invested in such manner as may be prescribed.	Statute
+Section 37 enumerates the purposes for which the said fund can be expended.	Statute
+They include acquisition of sites for the market, maintenance of market, maintenance of standard weights and measures, salaries of servants, payment of interest on loan, collection and dissemination of information regarding matters relating to crop statistics, propaganda in favour of agricultural improvement and orderly marketing and payment of allowances to the members.	Statute
+grant of donation to body conducting any educational or welfare activities for the benefit of the agriculturists on certain conditions and also for any other purpose but with the previous approval of the Government.	Statute
+Section 38 makes the audit of the accounts, preparation of budget estimate, etc., mandatory.	Statute
+Chapter VII deals with total prohibition against making or recovering any trade allowance in any market area in any transaction in respect of agricultural produce.	Statute
+Section 45 provides for supersession of market committees in a given set of circumstances.	Statute
+Section 45 (2) (b) mentions that in that event all property vested in the market committee shall vest in the State Government.	Statute
+Section 54 mentions that the Chairman, the Vice-Chairman, the Members, the Secretary and other officers and servants of the Market Committee shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code.	Statute
+The director or any officer authorised by him or any person authorised by the market committee alone can institute certain prosecutions in view of section 56.	Statute
+Section 57 makes certain dues recoverable as an arrear of land revenue.	Statute
+Section 60 is a rule-making power and section 61 deals with the making of bye-laws by the market committee.	Statute
+Inter alia, the bye-law may provide that any contravention thereof may be punishable with a fine up to Rs. 100.	Statute
+The case of Union of India v. R. C. Jain, , lays down the various tests for determining whether section 3(31) of the General Clauses Act is attracted or not (p. 952) : The authorities must have separate legal existence as corporate bodies.	PrecedentReliedUpon
+They must not be mere governmental agencies but must be legally independent entities.	PrecedentReliedUpon
+Next, they must function in a defined area and must ordinarily, wholly or partly, directly or indirectly, be elected by the inhabitants of the area.	PrecedentReliedUpon
+Next, they must enjoy a certain degree of autonomy, with freedom to decide for themselves questions of policy affecting the area administered by them.	PrecedentReliedUpon
+The autonomy may not be complete and the degree of dependence may vary considerably, but an appreciable measure of autonomy there must be.	PrecedentReliedUpon
+Next, they must be entrusted by statute with such governmental functions and duties as are usually entrusted to municipal bodies, such as those connected with providing amenities to the inhabitants of the locality, like health and education services, water and sewerage, town planning and development, roads, markets, transportation, social welfare services, etc.	PrecedentReliedUpon
+Broadly we may say that they may be entrusted with the performance of civic duties and functions which would otherwise be governmental duties and functions.	PrecedentReliedUpon
+Finally, they must have the power to raise funds for the furtherance of their activities and the fulfilment of their projects by levying taxes, rates, charges or fees.	PrecedentReliedUpon
+This may be in addition to moneys provided by Government or obtained by borrowing or otherwise.	PrecedentReliedUpon
+What is essential is that control or management of the fund must vest in the authority.	PrecedentReliedUpon
+The Market Committee clearly satisfies all these tests.	RatioOfTheDecision
+It is a body corporate having separate legal existence and autonomous status.	Fact
+It is independent of the Government and operates in a defined area.	Fact
+Its office-bearers are elected and are free to take their own policy decisions.	Fact
+It performs governmental functions such as running market, providing civic amenities and doing civic duties.	Fact
+It also performs judicial, legislative, executive and fiscal functions.	Fact
+It can raise funds for its objects by levying fees, can raise loans and control and management of this fund vests in the Committee.	Fact
+Clearly this is a local fund as envisaged by section 3(31) of the GC Act.	Fact
+In this connection, useful reference may also be made to certain other relevant provisions.	None
+The Bombay Local Fund Audit Act, 1930, defines local authority as well as local fund.	Statute
+Local authority means local authority as defined under clause (26) of section 3 of the Bombay General Clauses Act, 1904 (BGC Act), and includes several institutions.	Statute
+Local fund means any fund to the control or management of which the local authority is legally entitled and includes the proceeds of any cess, rate, duty or tax which such authority is legally entitled to impose and any property vested in such authority.	Statute
+At this stage, it may be noticed that the definitions of the term local authority under the BGC Act and the GC Act are in pari materia.	Fact
+The Maharashtra Treasury Rules, 1968, in clause 523, explains the term local fund thus : The expression local fund denotes (i) revenue administered by bodies which by the law or rule having the force of law come under the control of the Government, whether in regard to the proceedings generally or to specific matters such as the sanctioning of their budgets, sanction to the creation or filling up of particular appointments, the enactment of leave, pension or similar rules the revenue of any body which may be specially notified by the Government as such.	Statute
+The Bombay Financial Rules, 1959, in clause 183, explains the term local fund thus : revenues administered by bodies which by law or rule having the force of law come under the control of the Government, whether in regard to the proceedings generally or to specific matters such as sanctioning of their budgets, sanction to the creation or filling up of particular appointments, the enactment of leave, pension or similar rules (2) the revenue of any body which may be specially notified by the Government as such.	Statute
+The conclusion is thus inescapable that the petitioners have all the attributes of local authority as contemplated by section 10(20) of the Income-tax Act.	RatioOfTheDecision
+The authorities on the point are in abundance.	None
+We quote a few.	None
+In Patel Premji, Jiva v. State of Gujrat , the Supreme Court has held that the Market Committee constituted under the Gujarat Agricultural Produce Markets Act, 1963, is a local authority as defined under the GC Act.	PrecedentReliedUpon
+The Andhra Pradesh High Court in the case of Budha Veerinaidu v. State of Andhra Pradesh , has held that the Market Committee under the Andhra Pradesh Agricultural Produce Market Act, 1966, is a local authority.	PrecedentReliedUpon
+This decision was followed in the case of CIT v. Agricultural Market Committee .	PrecedentReliedUpon
+There is yet one more aspect which deserves notice.	None
+The Indian Income-tax Act, 1922, also had a pari materia provision and the market committees are functioning in various parts of the State since long before even the APMC Act was brought into force.	RatioOfTheDecision
+Despite this, till 1982, the Income-tax Department never questioned the market committees status as local authority.	Fact
+It is not as if the matter had escaped its attention inadvertently.	RatioOfTheDecision
+As far back as on December 18, 1956, the Ministry of Revenue and Civil Expenditure, Government of India, had issued a D.O. letter bearing Number 5130 MRCE-56 reading as under : Will you please refer to letter regarding income of Agricultural Produce Committee in Bombay.	Fact
+We have been advised that these committees are local authorities for the purposes of section 10(20) of the Income-tax Act.	Fact
+Instructions have been issued to the income-tax authorities accordingly to examine the income in such committees and to consider in favour of the assessees, the appeals filed by them against assessments already made.	Fact
+This communication was brought to the notice of the Income-tax Officer, Yeotmal, the respondent in Writ Petition Number 1520 of 1983.	Fact
+It was not and is not being disputed before us that this is the last and final communication on the subject, from the Ministry of Revenue.	Fact
+No doubt, this Circular is issued under the Indian Income-tax Act, 1922, but that makes no difference.	RatioOfTheDecision
+There are no inconsistent provisions in the Indian Income-tax Act, 1922, and the current Income-tax Act on the subject and as a result, the instructions will be deemed to have been issued under the present Act in terms of section 297 dealing with repeals and savings.	RatioOfTheDecision
+Section 119 of the Income-tax Act makes these instructions binding on the Department.	Statute
+Useful reference may be made in this connection to the case of Addl.	PrecedentReliedUpon
+CIT v. Sarvaraya Textiles Limited .	PrecedentReliedUpon
+Shri Chandurkar, the learned counsel for the Department, in the first place contended that in view of the availability of an alternate remedy under the Income-tax Act, the petition should not be entertained at this premature stage.	ArgumentRespondent
+Several authorities, in support of this submission, were also brought to our notice.	None
+We do not think that this preliminary point can succeed.	RulingByPresentCourt
+The respondents have taken a positive stand in the matter and driving the petitioners to remedies under the Income-tax Act would be an exercise in futility.	RatioOfTheDecision
+A pure question of law having an impact on several public bodies is involved and the petitions are already admitted more than twelve months before.	RatioOfTheDecision
+Moreover, the existence of an alternate remedy is no bar to entertain a writ petition.	RatioOfTheDecision
+It is next contended that several decisions relied upon by the petitioners are not under the Income-tax Act and the ratio therein, therefore, cannot apply.	ArgumentRespondent
+The submission has no merit for what fell for consideration there and what falls for consideration here is the same definition, namely, section 3(31) of the GC Act.	RatioOfTheDecision
+Equally devoid of merit is a submission that the scheme of the Gujarat Act is basically different from the APMC Act.	RatioOfTheDecision
+No doubt, the definitions of the term local authority in the two enactments are not exact.	RatioOfTheDecision
+Both are inclusive definitions and include Panchayat Samities.	RatioOfTheDecision
+The Gujarat definition additionally includes Corporations as well as Municipalities.	RatioOfTheDecision
+The other distinguishing feature is that in the Gujarat Act, there exists since inception a deeming provision in section 10(2) reading that A market committee shall be deemed to be a local authority within the meaning of clause (26) of section 3 of the Bombay General Clauses Act, 1904, (Bom I of 1904) and that in the APMC Act such a pro vision has been introduced only recently by the Maharashtra Act Number 10 of 1984, but these distinguishing features do not make any impact on the ratio laid down in several decisions referred to above as the basic scheme of the two enactments is very similar if not exact.	RatioOfTheDecision
+Our first impression about the Act Number 10 of 1984 is that it is merely explanatory in nature but the debate on the point for the reasons already mentioned is unnecessary.	RatioOfTheDecision
+The respondents contend that the fund which is built up only on the basis of the fees and not taxes cannot be termed as a local fund.	ArgumentRespondent
+Difference between a tax and a fee is well known.	RatioOfTheDecision
+Quid pro quo which is the basis of valid fees is absent in taxes.	RatioOfTheDecision
+Compulsion is not the sole or even material criterion for distinguishing fee from taxs is held in Municipal Corporation of Delhi v. Mohd. Yasin 1983 142 ITR 737 (SC)), on which reliance was placed by the respondents but we fail to see how that aspect has any bearing on the point at issue.	RatioOfTheDecision
+What is material is that there is authority and there is power to raise money by permissible mode of exaction.	RatioOfTheDecision
+Reliance was placed on certain observations in R. C. Jains case, .	PrecedentNotReliedUpon
+We are clear that the word taxation is used in the sense of imposition and not taxes as such.	RatioOfTheDecision
+Equally untenable is the submission that the market committee does not perform any governmental functions.	RatioOfTheDecision
+Reasons need not be repeated.	RatioOfTheDecision
+Our attention was invited to the case of Calcutta State Transport Corporation v. CIT , which Road Transport Corporation under the Road Transport Corporations Act, 1950, as amended by the Road Transport Corporations (West Bengal Amendment) Act, 1959, was held not to be a local authority within the meaning of section 10(20) of the Income-tax Act.	PrecedentNotReliedUpon
+In that case, the scheme of the Transport Corporations Act had been considered and it was held that the Corporation neither per-forms any governmental function nor has a local fund.	PrecedentNotReliedUpon
+Hence, that case renders no support to the stand of the respondents.	PrecedentNotReliedUpon
+To conclude, the petitions are allowed and the rules are made absolute to the extent that the petitioners are local authorities in terms of section 10(20) of the Income-tax Act.	RulingByPresentCourt
+There are no total exemptions to local authority.	RulingByPresentCourt
+Certain incomes are taxable.	RatioOfTheDecision
+Needless to mention that the respondents are free to issue notices or assess the income on the basis of they being a local authority.	RatioOfTheDecision
+There shall, under the circumstances, be no order as to costs.	RulingByPresentCourt
+Needless to mention that securities or guarantees, if furnished by the petitioners, stand discharged.	RulingByPresentCourt

@@ -1,0 +1,37 @@
+The Court : We have heard the learned counsel for the parties.	None
+Service has been effected on the assessee.	None
+Mr. Mazumdar, learned counsel appearing for the respondent-assessee, waives service of notice of appeal.	Fact
+We admit the appeal on the following substantial questions of law: Whether on the facts and in the circumstances of the case the learned Tribunal was justified in law in dismissing the appeal of the revenue by relying upon the decision of the Honble Bombay High Court in the case of M section Allana Cold Storage Limited -vs- I.T.O. (2006) 206 CTR 401 (Bom), holding, inter-alia, that since it was the mandatory duty of the Assessing Officer to furnish the reasons with regard to the re-opening of the assessment under Section 147 of the Income Tax Act, the Assessing Officer had failed to provide the reasons to the assessee.	Issue
+ii) Whether on the facts and in the circumstances of the case the Tribunal was justified in law to dismiss the appeal on the ground on non-furnishing the reasons recorded for re-opening of the case.	Issue
+By consent of the learned counsel for the parties, we take up both the appeal and the stay petition together for hearing dispensing with the requirement of compliance of regular formalities for making the appeal ready.	Issue
+The dispute arises out of proceedings initiated for re-assessment on the ground of income escaping assessment.	Fact
+The assessee was successful before the Commissioner of Income Tax (Appeals) and the matter was carried up in appeal before the Income Tax Appellate Tribunal.	Fact
+The Tribunal in its decision confirmed the order of the Commissioner of Income Tax.	RulingByLowerCourt
+The only ground on which the Tribunal decided the issue in favour of the assessee was that no reason was communicated to the assessee for initiating proceedings under Section 147/148 of the Income Tax Act, 1961.	RulingByLowerCourt
+Needless to add, the order was passed in a scrutiny assessment under Section 143(3) of the Act.	RulingByLowerCourt
+Ms. Das De, learned counsel appearing for the Revenue has argued that the obligation on the part of the income tax authorities to furnish reasons arises only if the assessee seeks such reasons.	ArgumentPetitioner
+According to her, this is apparent from sub-section (2) of Section 148 of the Act.	ArgumentPetitioner
+Her interpretation of the aforesaid provision is that for issue of notice under Section 148, the obligation of the Assessing Officer is to record reasons.	ArgumentPetitioner
+But there is no mandate for communicating the reason without any request from the assessee.	ArgumentPetitioner
+This proposition of law is not really disputed by Mr. Mazumdar, learned counsel for the assessee.	ArgumentRespondent
+The Honble Supreme Court in the case of GKN Driveshafts (India) Limited vs Income Tad Officer Ors., reported in 259 ITR 19, has held :- We see no justifiable reason to interfere with the order under challenge.	PrecedentNotReliedUpon
+However, we clarify that when a notice under section 148 of the Income-tax Act is issued, the proper course of action for the noticee is to file a return and if he so desires, to seek reasons for issuing notices.	RatioOfTheDecision
+The Assessing Officer is bound to furnish reasons within a reasonable time.	RatioOfTheDecision
+On receipt of reasons, the noticee is entitled to file objections to issuance of notice and the Assessing Officer is bound to dispose of the same by passing a speaking order.	RatioOfTheDecision
+In the instant case, as the reasons have been disclosed in these proceedings, the Assessing Officer has to dispose of the objections, if filed, by passing a speaking order, before proceeding with the assessment in respect of the abovesaid five assessment years.	RatioOfTheDecision
+Mr. Mazumdars submission, however, is that the assessee had made request for reasons, but in spite of such request, the same was not furnished.	ArgumentRespondent
+This submission of Mr. Mazumdar will appear from the following passage of the order of the Tribunal.	RulingByLowerCourt
+At the outset, it was observed that assessee has challenged the legality and validity of assessment framed u section 147 of the Act on the ground that no reasons for reopening whatsoever has been communicated to assessee.	RulingByLowerCourt
+AR further submitted that several requests for the reasons for the reopening the assessment u s 147 of the Act was made but no details were submitted by AO.	RulingByLowerCourt
+We also find that Ld.	RulingByLowerCourt
+DR also failed to bring anything on record to controvert the argument made by A O and also the finding of Ld.	RulingByLowerCourt
+CIT(A).	RulingByLowerCourt
+The Revenues case on the other hand is that no such request was made and the records forming part of this appeal do not reveal any finding on the part of any of the statutory fora that request to that effect was made.	ArgumentPetitioner
+From the aforesaid passage of the Tribunals order, quoted above, it appears to us that submission by the Revenue on that count was made before it, but there is no finding to that effect.	RatioOfTheDecision
+In such circumstances, we are of the view that the Tribunal ought to re-examine the question as to whether the assessee had made any request for reasons as contemplated in Section 148(2) of the Act prior to passing the re-assessment order under Section 143(3)/147 of the Act.	RatioOfTheDecision
+On the basis of that finding, fresh decision shall be taken by the Tribunal.	RatioOfTheDecision
+We, accordingly, set aside the decision of the Tribunal and remand the matter to the Tribunal for a decision on this limited point.	RulingByPresentCourt
+No other point has been urged before us by the learned counsel for the parties.	None
+The appeal is allowed in the above terms and the matter is remanded to the Tribunal.	RulingByPresentCourt
+Both the appeal and the stay petition stand disposed of accordingly.	RulingByPresentCourt
+(ANIRUDDHA BOSE, J.) (SHIVAKANT PRASAD, J.) sm	None

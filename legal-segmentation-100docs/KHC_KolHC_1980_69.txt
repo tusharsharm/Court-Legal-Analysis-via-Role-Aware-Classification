@@ -1,0 +1,120 @@
+K. Basu, J. In this application the petitioner challenges three notices all dated the 17th October, 1978, and issued under Section 148 of the I.T. Act, 1961 (hereinafter referred to as the Act).	Fact
+The notices are in respect of the assessment years 1970-71, 1971-72 and 1972-73, respectively.	Fact
+Although the main challenge is that the condition precedent for the applicability of Section 148 was not satisfied in the present case and it was pressed very strenuously and a large number of authorities were cited before me, the other point as to the limitation was also urged equally strenuously.	Issue
+Before I deal with the main challenge, I shall deal with the question of limitation.	Issue
+On the question of limitation, it was submitted that Section 153 of the Act provides the time-limit for the completion of assessments and reassessments.	ArgumentPetitioner
+The issue of limitation, it was contended, is to be considered in the light of Section 153(2) of the Act.	ArgumentPetitioner
+It was pointed out that separate time-limits for the completion of an assessment were provided for under Section 147(a) and under Section 147(b) of the Act.	ArgumentPetitioner
+The submission on the question of limitation was on the basis that the proceedings, which were impugned in the present case, fell under Section 147(b) of the Act.	ArgumentPetitioner
+This is because, although the point was not given up by Mr. Suhas Sen, appearing for the Revenue, he did not seriously try to justify the issue of the impugned notices under Section 147(a) of the Act.	ArgumentPetitioner
+In other words, Mr. Sens main argument was an attempt to justify the issue of the notices under Section 147(b) of the Act, an argument with which I shall deal later on.	ArgumentPetitioner
+On the question the following points were urged on both sides.	None
+What is the period of limitation for the completion of reassessment proceedings initiated under Section 147(b)/148 of the Act ? Whether the reassessment proceedings under Section 147(b) were already barred by limitation as provided in Section 153(2)(b) of the Act, on or before 17th October, 1978, the date when the ITO issued notices under Section 142(1) of the Act? Where the reassessment proceedings cannot be completed because of the bar of limitation under Section 153(2)(b) of the Act, should this court go into the question of limitation or leave it to be considered by the ITO ? Has Section 153(2A)/153(3) any application in this case? Is there any ground or prayer regarding limitation ? With regard to the points (a) and (b) noted above, it was pointed out that no order for reassessment under Section 147(b) of the Act could be made after the expiry of-- four years from the end of the relevant assessment year, or (ii) one year from the date of service of the notices under Section 148, whichever is later.	Issue
+It was pointed out that in this case the impugned notices were admittedly served on or about the 22nd July, 1974.	ArgumentPetitioner
+These notices relate to three assessment years, as I have already indicated, viz., 1970-71, 1971-72, 1972-73.	ArgumentPetitioner
+Therefore, the four-year period expired on 31st March, 1975, 31st March, 1976, and 31st March, 1977, respectively.	ArgumentPetitioner
+If the one-year period is to be counted from the date of service of the notice, that expired on 21st July, 1975.	ArgumentPetitioner
+As such, it was pointed out 31st March, 1977, is in any event the last date for the completion of reassessment proceedings for the relevant years and any reassessment made after that date will be barred by limitation in view of Section 153(2)(b) of the Act.	ArgumentPetitioner
+In the present case, the notice under Section 142(1) of the Act, asking for production of books of account and documents was issued only on 17th October, 1978, which shows that the reassessment proceedings under Section 147(b) of the Act had not been completed till then.	ArgumentPetitioner
+Therefore, the reassessment proceedings in the present case is clearly barred by limitation.	ArgumentPetitioner
+Therefore, it was submitted that the continuation of any further proceeding pursuant to the impugned notices was clearly illegal, unwarranted, without jurisdiction and void ab initio.	ArgumentPetitioner
+Coming to the question, whether this court should go into the aspect of limitation in writ proceedings at this stage, reference was made to the judgment of a Division Bench of this court in the case of CIT v. Punam Chand Banthia 1978 112 ITR 727.	ArgumentPetitioner
+In that case a notice issued under Section 148 of the Act and dated the 25th January, 1967, was challenged.	PrecedentNotReliedUpon
+The assessment was reopened for the assessment year 1962-63.	PrecedentNotReliedUpon
+The notice under Section 148 was issued on 25th January, 1967, which was within a period of four years from the assessment year 1962-63.	PrecedentNotReliedUpon
+As such, it was within the time prescribed under Section 149 of the Act.	PrecedentNotReliedUpon
+It seems that in the trial court the Department tried to justify the reopening both under Section 147(a) as also under Section 147(b) of the Act.	PrecedentNotReliedUpon
+The notice was quashed by the trial court.	PrecedentNotReliedUpon
+On appeal, the Division Bench appears to have found that the notice in that case was issued under Section 147(b) of the Act.	PrecedentNotReliedUpon
+This is clear from an observation at p. 730 of the report, which is as follows : For the reasons aforesaid it appears to us that the notice was issued under Section 148 on the basis of the information received as mentioned hereinbefore under Section 147(1)(b) of the Act.	PrecedentNotReliedUpon
+At pp.	PrecedentNotReliedUpon
+730-31 the following passage occurs : In the instant case a notice was served on or about 25th January, 1967, under Section 148 of the Act.	PrecedentNotReliedUpon
+Thereafter, the Income-tax Officer served another notice bearing G.I. Number IV(1)/719-B E dated February 1, 1971, under Section 139 of the Act requiring the respondent to produce or cause to be produced at his office at Number 40, Strand Road, Calcutta 1, on 9th February, 1971, at 11.30 A.M. accounts and documents mentioned on the reverse of the notice, viz., books of account, bank pass book and other related papers.	PrecedentNotReliedUpon
+This notice was served about 4 years after the service of the notice under Section 148 of the Act and no assessment or reassessment or recomputation could be made under Section 147 where the assessment, reassessment or recomputation is to be made under clause (b) of that section after the expiry of one year from the date of service of the notice under Section 148.	PrecedentNotReliedUpon
+It appears that this has clearly been the case in the instant matter.	RatioOfTheDecision
+For the reasons aforesaid the appellants could not proceed with the reassessment as they purported to do by virtue of the notice dated 1st February, 1971.	RatioOfTheDecision
+For the reasons stated hereinabove, we are of the view that there is no merit in the appeal.	PrecedentNotReliedUpon
+The appeal must fail and is hereby dismissed.	PrecedentNotReliedUpon
+On the strength of the above decision, it was contended by Mr. Sukumar Bhattacharyya and Mr. Poddar, who followed him, that in the above case the Division Bench went into the question of limitation in a writ application and on the finding that the assessment proceedings proposed to be undertaken pursuant to a notice under Section 148 of the Act was barred by limitation, upheld the finding of the trial court and dismissed the appeal.	ArgumentPetitioner
+Lastly, it was pointed out that specific grounds have been taken in the petition with regard to the point of limitation and grounds (A) and (C) were referred to in this connection.	ArgumentPetitioner
+There are also specific prayers for certain directions with regard to the question of limitation.	ArgumentPetitioner
+Mr. Suhas Sen, appearing for the Revenue and dealing with this aspect of limitation, contended, in the first place, that the scope of writ jurisdiction in revenue matters is very limited.	ArgumentRespondent
+There is an adequate alternative remedy provided by the Act itself.	ArgumentRespondent
+Moreover, the Supreme Court has repeatedly cautioned the courts against exercising the writ jurisdiction in matters where the court has to make assumptions of facts which remain to be investigated by the Revenue authorities.	ArgumentRespondent
+Shivram Poddar v. ITO .	PrecedentReliedUpon
+It was contended that the question whether the reassessment proceedings initiated against a person are barred by limitation can and ought to be raised before the ITO.	ArgumentRespondent
+It cannot be raised in writ proceedings.	ArgumentRespondent
+My attention was drawn to a decision of the Supreme Court in the case of Lalji Haridas v. ITO 1961 43 ITR 387.	PrecedentNotReliedUpon
+In that case, it was held that the question whether the assessment proceedings initiated against a person are barred by limitation under Section 34(3) of the Indian I.T. Act, 1922 (which corresponds to Section 153 of the Act), can and ought to be raised by the assessee before the ITO.	PrecedentNotReliedUpon
+That is not a point which can be legitimately agitated in writ proceedings.	PrecedentNotReliedUpon
+My attention was also drawn to another decision of the Supreme Court in the case of Lalji Haridas v. R. H. Bhatt 1965 55 ITR 415.	PrecedentNotReliedUpon
+At p. 418 the following passage occurs.	PrecedentNotReliedUpon
+Mr. Pathak for the appellant attempted to argue that the notice issued against the appellant is, on the face of it, invalid, because it is barred by time.	ArgumentRespondent
+We did not allow Mr. Pathak to develop this point, because we took the view that a plea of this kind must ordinarily be taken before respondent Number 1 himself.	PrecedentNotReliedUpon
+The jurisdiction conferred on the High Court under article 226 is not intended to supersede the jurisdiction and authority of the Income-tax Officers to deal with the merits of all the contentions that the assessees may raise before them, and so it would be entirely inappropriate to permit an assessee to move the High Court under article 226 and contend that a notice issued against him is barred by time.	Statute
+That is a matter which the income-tax authorities must consider on the merits in the light of the relevant evidence.	None
+With regard to the decision of the Supreme Court in the case of section section Gadgil v. Lal and Company , where the Supreme Court affirmed the decision of the Bombay High Court and held that the notice under Section 34 of the old Act was barred by limitation, it was pointed out that the decision is clearly distinguishable from the present case.	ArgumentRespondent
+It was pointed out that jurisdiction under Section 34 of the old Act could only be assumed by issuing a valid notice under Section 34 after complying with all the conditions precedent provided under the Act.	ArgumentRespondent
+One of the conditions precedent is that the notice must be issued within the time-limit provided by the statute.	ArgumentRespondent
+In that case, the Supreme Court held that the ITO could not commence proceedings under Section 34 of the old Act oh the ground that the issue of the notice itself was beyond the prescribed time-limit.	ArgumentRespondent
+It was submitted that the fundamental distinction between Gadgils case and the present case is that the initial assumption of jurisdiction by issuing the notice under the Act is not invalid because the notices were admittedly issued within the time prescribed.	ArgumentRespondent
+What the petitioner in this case is challenging is not the assumption of jurisdiction but the exercise of jurisdiction on the ground that the conclusion of the assessment proceeding is barred by limitation.	ArgumentRespondent
+This question, it was pointed out by Mr. Sen, should be left to be decided by the ITO on the strength of the two Lalji Haridas cases mentioned above.	ArgumentRespondent
+Lastly, it was pointed out that the two decisions in Lalji Haridas v. ITO and Lalji Haridas v. R. H. Bhatt , mentioned above, are decisions of five learned judges of the Supreme Court and should prevail over the decision in Gadgils case , which is the judgment of three learned judges only.	ArgumentRespondent
+After giving my anxious consideration to the facts of the present case and on the authorities cited before me, I have come to the conclusion that the reassessment proceedings in the instant case are clearly barred by limitation.	RulingByPresentCourt
+As already indicated, the last date for completion of the reassessment proceedings pursuant to the impugned notices expired on 31st March, 1977.	RatioOfTheDecision
+The notice dated the 17th October, 1978, cannot enlarge the period of limitation as it was issued beyond the period of four years from the last assessment year.	RatioOfTheDecision
+Irrespective of the contention of Mr. Suhas Sen whether this question should be gone into by the writ court or should be left to the ITO, the stark fact remains that all the reassessment proceedings pursuant to the impugned notices are clearly barred by limitation.	RatioOfTheDecision
+That being so, no other question really arises for consideration.	RatioOfTheDecision
+Having regard to the elaborate arguments advanced from the Bar, I shall very briefly record the contentions on merits and refer to the authorities cited in support thereof.	None
+With regard to the merits of the question of reopening of the assessment before I deal with them it will be useful to set out the recorded reasons for the relevant assessment years, namely, 1970-71, 1971-72 and 1972-73, which were, by consent of parties, tendered and forms part of the records of this case.	None
+The recorded reasons by the ITO dated the 28th June, 1974, are as follows: The assessee started construction of his house properties at 106/E, Amherst Street, Calcutta-9, in April, 1968, and completed the same in July, 1971.	Fact
+This is a four-storeyed house property measuring about 950 sq.	Fact
+in each floor.	Fact
+The assessee claimed that the total cost of construction was only Rs. 61,000, vide O s (70-71) dated Aprils, 1973.	Fact
+This sum was explained by him to be gift received from his father and grandmother.	Fact
+No valuation report estimating cost of construction was filed nor any enquiry has been made from the ITO concerned who made the assessment up to 1972-73 assessment year, accepting the assessees cost of construction.	Fact
+To the best of my knowledge and estimate the total cost of construction incurred by the assessee is not less than Rs. 1 lakh only, in view of the total covered space and period of construction and with reference to the valuation report for wealth-tax purpose filed by the assessee.	Fact
+Secondly, all the gifts of Rs. 61,000 were not withdrawn from his bank account (which were initially deposited in the bank fixed deposit account).	Fact
+As such I have reason to believe that the assessee has unexplained investment to the extent of Rs. 60,000 (approximate), representing his income from undisclosed sources which escaped assessment for his failure to file the true return of income.	Fact
+Since the major construction was made during 1969-70 to 1971-72, this year I considered that the escaped income, Rs. 60,000, may be reassessed under Section 148/147(a) equally in three assessment years, i. e., 1970-71 and 1971-72, 1972-73.	Fact
+So issue notice u section 148 for 1970-71, 1971-72 and 1972-73 assessment years at once.	Fact
+Inspector to enquire about the cost of construction only.	Fact
+Mr. Bhattacharyya, appearing for the petitioner, relied on a number of decisions in support of his contention that this reopening could be justified only under Section 147(b) and not under Section 147(a) of the Act.	ArgumentPetitioner
+As I have already indicated Mr. Suhas Sen for the Revenue, without conceding the point, had only sought to justify the notice under Section 147(b) of the Act.	ArgumentRespondent
+I shall merely mention the cases on this point and not deal with them.	None
+Mr. Bhattacharyya relied on a decision of the Patna High Court in the case of Durga Sharan Udho Prasad v. CIT 1976 103 ITR 270.	ArgumentPetitioner
+He also referred to the judgment of a Division Bench of this court in the case of ITO v. Selected Dalurband Coal Company P. Limited .	ArgumentPetitioner
+He also referred to the case of ITO v. Madnani Engineering Works Limited , the case of Gemini Leather Stores v. ITO and the case of Ahmedabad Cotton Mfg.	ArgumentPetitioner
+Company Limited v. Union of India 1914 95 ITR 639 (Guj).	PrecedentNotReliedUpon
+Since Mr. Sen for the Revenue really sought to justify the reopening of the assessment under Section 147(b) of the Act, I refrain from dealing with these authorities, mentioned above, in any detail.	RatioOfTheDecision
+Mr. Bhattacharyya, for the assessee, sought to contend that this is merely a change of opinion on the part of the ITO and no fresh information.	ArgumentPetitioner
+In support of this proposition Mr. Bhattacharyya relied on a decision in the case of Jamna Lal Kabra v. ITO 1968 69 ITR 461 (All).	ArgumentPetitioner
+Reference was also made to a decision of the Patna High Court on the question of reasons recorded in the case of C. M. Rajgharia v. ITO 1975 98 ITR 486 (Pat).	ArgumentPetitioner
+I do not see how this case is of any relevance to the present case.	PrecedentNotReliedUpon
+On the question of what is information within the meaning of Section 147(b) of the Act, reference was also made to the decisions of this court in Ballarpur Paper and Straw Board Mills Limited v. CIT and in the case of Grindlays Bank Limited v. ITO .	PrecedentNotReliedUpon
+On the question of valuation report my attention was drawn to a decision of this court in the case of Murarka Paints and Varnish Works Limited v. ITO 1978 114 ITR 480.	PrecedentNotReliedUpon
+Mr. Suhas Sen, appearing for the Revenue, placed very strong reliance on the decision of the Supreme Court in the case of Kalyanji Mavji Company v. CIT 1976 102 ITR 287.	ArgumentRespondent
+In that case it was held that Section 34(1)(b) of the old Act, which corresponds to Section 147(b) of the Act, would apply to the following categories of cases (headnote): Where the information is as to the true and correct state of the law derived from relevant judicial decisions Where in the original assessment the income liable to tax has escaped assessment due to oversight, inadvertence or a mistake committed by the Income-tax Officer Where the information is derived from an external source of any kind : such external source would include discovery of new and important matters or knowledge of fresh facts which were not present at the time of original assessment and Where the information may be obtained even from the record of the original assessment from an investigation of the materials on the record or the facts disclosed thereby or from other enquiry or research into facts or law.	PrecedentNotReliedUpon
+Mr. Sen sought to rely upon another decision of the Supreme Court in the case of R. K. Malhotra, ITO v. Kasturbhai Lalbhai 1977 109 ITR 537.	ArgumentRespondent
+In that case, it was held that the audit department was the proper machinery to scrutinise the assessments of ITOs and point out the errors, if any, in law, and that the intimation received by the ITO constituted information within the meaning of Section 147(b) in consequence of which the ITO could reopen the assessment.	PrecedentNotReliedUpon
+On the strength of these authorities of the Supreme Court, Mr. Sen sought to contend that a mistake in the original assessment could be an information within the meaning of Section 147(b) of the Act.	ArgumentRespondent
+Mr. Poddar, who followed Mr. Bhattacharyya in reply, drew my attention to the recent decision of the Supreme Court, Indian and Eastern Newspaper Society v. CIT 1979 119 ITR 996.	PrecedentReliedUpon
+As will appear from page 1007 of the report, the Supreme Court, in the above case, held that its earlier decision in the case of R. K. Malhotra v. Kasturbhai Lalbhai and the decision in Kalyanji Mavji Company v. CIT , were wrongly decided.	PrecedentNotReliedUpon
+Mr. Bhattacharyya drew my attention to para.	None
+1004 of the report which is in the following terms: In the present case, an internal audit party of the income-tax department expressed the view that the receipts from the occupation of the conference hall and rooms did not attract Section 10 of the Act and that the assessment should have been made under Section 9.	PrecedentNotReliedUpon
+While Sections 9 and 10 can be described as law, the opinion of the audit party in regard to their application is not law.	PrecedentNotReliedUpon
+It is not a declaration by a body authorised to declare the law.	PrecedentNotReliedUpon
+That part alone of the note of an audit party which mentions the law which escaped the notice of the ITO constitutes information within the meaning of Section 147(b) the part which embodies the opinon of the audit party in regard to the application or interpretation of the law cannot be taken into account by the ITO.	PrecedentNotReliedUpon
+In every case, the ITO must determine for himself what is the effect and consequence of the law mentioned in the audit note and whether in consequence of the law which has now come to his notice he can reasonably believe that income has escaped assessment.	PrecedentNotReliedUpon
+The basis of his belief must be the law of which he has now become aware.	PrecedentNotReliedUpon
+The opinion rendered by the audit party in regard to the law cannot, for the purpose of such belief, add to or colour the significance of such law.	PrecedentNotReliedUpon
+In short, the true evaluation of the law in its bearing on the assessment must be made directly and solely by the ITO.	PrecedentNotReliedUpon
+In my view, this case is a clear authority for the proposition that an interpretation of the law by an audit party cannot be an information within the meaning of Section 147(b) of the Act.	RatioOfTheDecision
+This case has expressly held that the two earlier decisions in the case of Kalyanji Mavji Company v. CIT and the case of R. K. Malhotra v. Kasturbhai Lalbhai , were wrongly decided.	RatioOfTheDecision
+Mr. Suhas Sen for the Revenue submitted that these decisions of the Supreme Court did not stand in the way of his client because, in the instant case, the information on which the ITO has sought to act was not from any internal source but from an outside source, viz., the records of the wealth-tax proceedings of the petitioner.	ArgumentRespondent
+I am merely recording these contentions because, as I have already indicated, in view of my finding on the question of limitation, I do not feel it necessary to make any pronouncement on this aspect of the matter.	RulingByPresentCourt
+Before I conclude, I may record that a large number of other authorities were cited mainly on behalf of the petitioner, which I do not consider it necessary to deal with.	RulingByPresentCourt
+In the result, this application succeeds and the rule must be made absolute.	RulingByPresentCourt
+There will be a writ in the nature of mandamus directing the respondents to forthwith recall, cancel and withdraw the three impugned notices dated July 12, 1974, for the assessment years 1970-71, 1971-72 and 1972-73, respectively, and to forbear from giving effect thereto in any manner whatsoever.	RulingByPresentCourt
+There will be no order as to costs.	RulingByPresentCourt

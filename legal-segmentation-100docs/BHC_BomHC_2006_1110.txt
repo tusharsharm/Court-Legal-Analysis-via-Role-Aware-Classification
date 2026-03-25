@@ -1,0 +1,209 @@
+P. Devadhar, J. Heard.	None
+Rule made returnable forthwith.	None
+By consent of parties, all these writ petitions are taken up for final hearing.	None
+In all these group of writ petitions, notices issued under Section 148 of the IT Act, 1961.	Fact
+(the Act for short) are challenged.	Fact
+By the said notices all dt.	Fact
+30th March, 2006, the Revenue seeks to reopen the assessments for asst.	Fact
+1989-90 to asst.	Fact
+1999-2000.	Fact
+According to the Revenue the impugned notices have been issued as per the directions given by CIT(A) by his order dt.	ArgumentRespondent
+24th Dec, 2004 to disallow bank interest in the respective assessment years aggregating to Rs. 2,39,65,498 and also to disallow depreciation in the respective assessment years aggregating to Rs. 10,66,429 by initiating proceedings under Section 148 r w Section 150(1) and Expln.	ArgumentRespondent
+2 to Section 153 of the Act.	RulingByLowerCourt
+The question, therefore, to be considered in all these petitions is, whether the CIT(A) has in fact issued such directions and if so, whether such directions are valid.	Issue
+To appreciate the dispute, we may note few facts.	None
+The petitioner (hereinafter referred to as the assessee) is an investment company.	Fact
+The return of income for asst.	Fact
+1989-90 (Writ Petn.	Fact
+Number 2465 of 2006) was filed by the assessee on 31st Dec, 1991 declaring income of Rs. 19,56,261.	Fact
+In the return of income, the assessee had claimed depreciation on depreciable assets under Section 32 of the Act.	Fact
+On 30th March, 1995 an assessment order under Section 143(3) of the Act was passed by the AO for asst.	Fact
+1989-90 determining total income at Rs. 21,71,830.	Fact
+By the said assessment order, depreciation as claimed by the assessee was allowed.	Fact
+The appeal filed by the assessee against the said assessment order was disposed of by the CIT(A) on 29th Aug., 1996.	RulingByLowerCourt
+Similarly, in all other group petitions the depreciation claimed by the assessee has been allowed in the respective assessment orders passed under Section 143(3) of the Act.	Fact
+For asst.	Fact
+1995-96 (Writ Petn.	Fact
+Number 2471 of 2006), the return of income was filed on 31st (sic) Nov., 1995 declaring loss of Rs. 51,51,518.	Fact
+During the year relevant to asst.	Fact
+1995-96, the assessee had obtained short-term loan of Rs. 5 crores from the Vysya Bank Limited It is the case of the assessee that the loan sanction letter and other terms and conditions relating to the grant of Rs. 5 crores loan as well as the full particulars relating to the interest paid to the bank during the years under consideration were furnished during the assessment proceedings.	Fact
+On 11th March, 1998 assessment order under Section 143(3) of the Act was passed by the AO for asst.	Fact
+1995-96 determining total loss at Rs. 8,20,310 after allowing the bank interest as claimed by the assessee as business expenditure except to the extent of Rs. 37,65,773 and disallowing the depreciation on computer printer.	Fact
+The appeal filed by the assessee against the said assessment order was disposed of by the CIT(A) on 21st Oct., 2002.	Fact
+Similar assessment orders under Section 143(3) of the Act have been passed for asst.	Fact
+1996-97 to asst.	Fact
+1999-2000 by allowing interest paid by the assessee to the banks as allowable business expenditure.	Fact
+On 17th Sept., 1998, the premises of the petitioner were searched by the officers of the IT Department and on 1st March, 1999 a notice under Section 158BC of the Act was served thereby calling upon the assessee to file block return for the block period from 1st April, 1988 to 30th Sept., 1998.	Fact
+Accordingly, the assessee filed a block return for the block period in question by declaring nil undisclosed income.	Fact
+By a block assessment order dt.	Fact
+29th Sept., 2000 passed under Section 158BC of the Act, the AO computed the undisclosed income for the block period at Rs. 2,50,31,927.	Fact
+In the block assessment order, it was held that the loan of Rs. 5 crores obtained by the assessee in September, 1994 from Vysya Bank Limited has been used for non-business purposes to the extent of Rs. 4.55 crores and, therefore, interest of Rs. 2,39,65,498 paid to the bank during the block period on the said loan of Rs. 5 crores was not allowable as deduction.	Fact
+It was further held that during the course of search and post-search enquiries, certain assets which are reflected in the books were not found at the premises of the assessee and, therefore, the depreciation allowed thereon amounting to Rs. 10,66,429 was not allowable.	Fact
+Accordingly, by disallowing the bank interest and depreciation, the undisclosed income of the assessee for the block period was computed at Rs. 2,50,31,927.	Fact
+On an appeal filed by the assessee, the CIT(A) by his order dt.	RulingByLowerCourt
+24th Dec, 2004 set aside the block assessment order by holding that the undisclosed income computed by the AO cannot be sustained inter alia on the ground that there was no evidence or any material found during the search proceedings on the basis of which the undisclosed income could be assessed under Section 158BC of the Act.	RulingByLowerCourt
+The CIT(A) further held that even the statements of Mr. Stany Saldanha, director of the assessee-company do not contain any admission regarding the undisclosed income.	RulingByLowerCourt
+Accordingly, the CIT(A) held that the undisclosed income computed in the block assessment order by making disallowances of bank interest and depreciation cannot be sustained.	RulingByLowerCourt
+The CIT(A) however observed that the AO is free to look into and consider the said disallowances under Section 148 of the IT Act in the relevant assessment years in terms of Section 150(1) r w Expln.	RulingByLowerCourt
+2 of Section 153 of the Act.	RulingByLowerCourt
+Challenging the aforesaid order of CIT(A), the Revenue has filed an appeal before the Tribunal and the same is pending.	Fact
+In the meantime based upon the aforesaid observations made by the CIT(A), the Asstt.	Fact
+CIT, Central Circle-13, Mumbai issued the impugned notices all dt.	Fact
+30th March, 2006 under Section 148 of the Act so as to reopen the assessments for asst.	Fact
+1989-90 to asst.	Fact
+1999-2000.	Fact
+The reasons recorded for reopening all these assessments are identical and they read thus: Reasons for reopening assessments under Section 148 of the IT Act in the case of M s Lotus Investments Limited The assessee-company M s Lotus Investments Limited, is an investment company on which a search and seizure action was carried out on 17th Sept., 1998.	Fact
+Subsequently, the block assessment under Section 158BC of the IT Act, 1961 for the block period 1st April, 1988 to 30th Sept., 1998 was completed on 29th Sept., 2000 disallowing the interest amounting to Rs. 2,39,65,498 as non-business expenditure and disallowing depreciation of Rs. 10,66,429 for the block period thereby determining the undisclosed income at Rs. 2,50,31,927.	Fact
+Being aggrieved by the block assessment order under Section 158BC passed by the AO the assessee-company filed an appeal before the CIT(A) (C)-VII, Mumbai on 31st Oct., 2000.	Fact
+The CIT(A) (C)-VII, Mumbai vide its order Number CIT(A)-VII DCCC-13/ROT-118/01/02/258 dt.	Fact
+24th Dec, 2004 deleted the disallowances made by the AO on account of interest of Rs. 2,39,65,498 and depreciation of Rs. 10,66,429.	Fact
+The assessment under Section 158BC dt.	Fact
+29th Sept., 2000 has been finalised on the basis of statements recorded of Mr. Stany Saldanha, director of the assessee-company on 22nd Oct., 1998.	Fact
+No evidence in respect of disallowances was found during the search on 17th Sept., 1998, thus, it cannot be said that any material was found on 22nd Oct., 1998 relating to any evidence found on 17th Sept., 1998.	Fact
+Even the statements recorded on 22nd Oct., 1998 in form of preliminary or final statements do not show any admission by Mr. Stany Saldanha which can be used as a material relatable to any evidence found on 17th Sept., 1998 as none was found on that date i.e., the day of search (17th Sept., 1998) or the appellant.	Fact
+Thus, assessment under Section 158BC r w Section 158BB in determining undisclosed income does not have any leg to stand.	Fact
+The CIT(A) further in the order, quoted that the AO is free to look into and consider these disallowances under Section 148 of the IT Act, in relevant assessment years in terms of Section 150(1) r w Expln.	RulingByLowerCourt
+2 of Section 153 in respect of deletion of both amounts made in this order.	Fact
+In the light of the above and reckoning the interest of the Revenue and following the guidance directions issued by the CIT(A) in his order, the assessments for the relevant assessment years involved in the block period are reopened under Section 148 of the Act in terms of Section 150(1) r w Expln.	Fact
+2 of Section 153 of the Act.	Fact
+Issue notices under Section 148 of the Act.	Fact
+The assessee objected to the reopening of the assessments by addressing a letter dt.	Fact
+15th June, 2006, through their chartered accountants.	Fact
+By an order dt.	Fact
+21st Aug., 2006, the said objections have been rejected.	Fact
+Hence, these petitions have been filed to challenge the validity of the notices all dt.	Fact
+30th March, 2006 issued under Section 148 of the Act and also the order dt.	Fact
+21st Aug., 2006 passed by the Asstt.	Fact
+CIT rejecting the objections raised by the petitioner for reopening the assessments.	Fact
+Mr. Mistry, learned Counsel appearing on behalf of the assessee submitted that the impugned notices are liable to be quashed and set aside, because firstly, the impugned notices have been issued beyond the period of limitation of six years prescribed under Section 149 of the Act and, hence, time-barred.	ArgumentPetitioner
+Secondly, under the proviso to Section 147 of the Act, an assessment completed under Section 143(3) of the Act can be reopened after the expiry of four years upto six years from the end of the relevant assessment years if it is shown that the assessee had either failed to furnish the return or has not made full and true disclosure of all material facts.	ArgumentPetitioner
+In the present case, the reasons recorded for reopening the assessment do not suggest any such failure and hence, the impugned notices are time-barred.	ArgumentPetitioner
+Thirdly, Section 150(1) of the Act which permits reopening of the assessments beyond six years in order to give effect to any finding or direction of the appellate authority is not applicable in the present case because there is no finding or direction given by any appellate or revisional authority and even the order passed by CIT(A) on 24th Dec, 2004 does not record any such finding and no directions have been given to that effect.	ArgumentPetitioner
+Fourthly, under the proviso to Section 151(1) of the Act, in cases where the assessment order under Section 143(3) or Section 147 of the Act has been made for the relevant year, no notice can be issued after the expiry of four years from the end of relevant assessment year, unless the Chief CIT or the CIT is satisfied on the reasons recorded by the AO that it is a fit case for issue of such notice.	ArgumentPetitioner
+In the present case, the AO has not obtained any sanction from the Chief CIT or the CIT and, therefore, the impugned notices are without jurisdiction.	ArgumentPetitioner
+Fifthly, the disallowances sought to be made by reassessment proceedings have already been done by the block assessment order dt.	ArgumentPetitioner
+29th Sept., 2000.	ArgumentPetitioner
+Though, the CIT(A) has set aside the block assessment order, the Revenue has not accepted the same and has filed an appeal before the Tribunal and the same is pending.	ArgumentPetitioner
+Therefore, it is not open to the Revenue to contend on the one hand that the block assessment order has been correctly passed and at the same time contend that the alleged income which has already been assessed in the block assessment has escaped assessment.	ArgumentPetitioner
+The submission is that it is not permissible for the same income to be assessed twice, i.e. once in the block assessment and again in the regular assessment.	ArgumentPetitioner
+Relying upon a decision of the apex Court in the case of ITO v. Murlidhar Bhagwan Das , Mr. Mistry submitted that the expression finding used in Section 150(1) of the Act would mean a finding which is necessary for the disposal of an appeal and giving relief in respect of the assessment of the year in question.	PrecedentReliedUpon
+Similarly, the expression direction means a direction which the appellate or the revisional authority is empowered to give under the section mentioned therein.	ArgumentPetitioner
+In the present case, the CIT(A) has neither given any finding that the income has escaped assessment nor given any direction to the effect that the interest and depreciation have to be disallowed by initiating reassessment proceedings.	ArgumentPetitioner
+Mr. Mistry submitted that the observations made by CIT(A) to the effect that the ITO is free to look into and consider the disallowances under Section 148 of the Act cannot be considered as a direction within the meaning of Section 150(1) of the Act.	ArgumentPetitioner
+Relying upon the decision of the apex Court in the case of Rajinder Nath v. CIT , Mr. Mistry submitted that the discretion given to the ITO to initiate reassessment proceedings if permissible in law cannot be construed as a direction to initiate reassessment proceedings as contemplated under Section 150 of the Act.	ArgumentPetitioner
+Even if there was any direction as contemplated under Section 150(1) of the Act, Mr. Mistry submitted that in view of the bar contained in Section 150(2) of the Act, the CIT(A) could not have issued such directions because, on the date on which block assessment order was passed, the reassessment could not be made in respect of the assessment years in question and, therefore, direction if any given to initiate reassessment proceedings in respect of those assessment years would be time-barred.	ArgumentPetitioner
+In the present case, the block assessment order was passed on 29th Sept., 2000 and on that date the time-limit for making reassessment provided under Section 149 of the Act (which was six years from the end of the assessment year) had already lapsed in respect of the assessment years in question.	ArgumentPetitioner
+Accordingly, Mr. Mistry submitted that the extended period of limitation contained in Section 150(1) of the Act is not applicable in the present case and, therefore, the impugned notices are liable to be declared as time-barred.	ArgumentPetitioner
+Mr. Chatterjee, learned Counsel appearing on behalf of the Revenue submitted that the assessee had not fully and truly disclosed all material facts at the time of original assessment and it is only during the course of search and seizure action carried out on 17th Sept., 1998 the facts suppressed by the assessee came to light.	ArgumentRespondent
+Since the bank interest and depreciation were erroneously allowed on account of the failure on the part of the assessee to disclose fully and truly all material facts and such disallowances could not be made in the block assessment order, the CIT(A) has directed for initiation of reassessment proceedings.	ArgumentRespondent
+Mr. Chatterjee submitted that interest on borrowed funds can be allowed as business expenditure only if the borrowed funds are utilized for the business of the assessee.	ArgumentRespondent
+From the block assessment order it is seen that the bank loan of Rs. 5 crores obtained by the assessee from Vysya Bank has been used for non-business purposes.	ArgumentRespondent
+The loan amounts were kept as share application money in the front companies of GMR Vasavi Group in violation of the terms of loan agreement.	ArgumentRespondent
+Since the interest paid to Vysya Bank did not relate to the business of the assessee, the said interest paid to the bank could not be allowed as business expenditure.	ArgumentRespondent
+Mr. Chatterjee further submitted that during the course of search it was seen that the assets on which depreciation has been allowed were not found in the premises.	ArgumentRespondent
+Some of the assets like refrigerator, air-conditioner, etc.	ArgumentRespondent
+which were purchased by the assessee were not used for business purposes but the same were used by the directors of the company.	ArgumentRespondent
+If the assets were not in existence or were not used for business purposes, then depreciation could not be allowed on those assets.	ArgumentRespondent
+Since these facts were suppressed and were noticed during the course of search, the CIT(A) by his order dt.	ArgumentRespondent
+24th Dec, 2004 has directed the ITO to initiate proceedings under Section 148 of the Act.	ArgumentRespondent
+Relying upon the decision of the apex Court in the case of McDowell Company Limited v. CTO , Mr. Chatterjee submitted that it is neither fair nor desirable to expect the legislature to intervene and take care of every device and scheme to avoid taxation and it is upto the Court to take stock to determine the nature of the new and sophisticated legal devices to avoid tax and, therefore, in the present case, in view of the findings recorded in the block assessment order and the order passed by CIT(A), no relief be granted in favour of the petitioner.	ArgumentRespondent
+Mr. Chatterjee submitted that Section 150(2) of the Act is not applicable to the facts of the present case in view of the specific directions given by CIT(A).	ArgumentRespondent
+He submitted that the initiation of reassessment proceedings being valid, the assessee must be directed to co-operate in the reassessment proceedings, so that if satisfied the AO would drop the reassessment proceedings and if the reassessment order is against the assessee, there is further remedy provided under the statute itself.	ArgumentRespondent
+Mr. Chatterjee further submitted that the impugned notices have been issued with bona fide intentions and if such actions taken by the AO are stalled at this stage, then the Department will not be in a position to bring the escaped income to tax by way of reassessment.	ArgumentRespondent
+He submitted that the Revenue is seeking to recover tax on the escaped income either under Section 148 proceedings or in the block assessment proceedings which are pending before the Tribunal and, therefore, no prejudice will be caused to the assessee if the reassessment proceedings are permitted to be proceeded with during the pendency of the appeal before Tribunal.	ArgumentRespondent
+Relying upon the decision of the Allahabad High Court in the case of Ashwani Dhingra v. Chief CIT , Mr. Chatterjee submitted that where Section 148 notices are issued in consequence of an order passed by the appellate authority or a Court the period of limitation would not be applicable.	ArgumentRespondent
+Accordingly, he submitted that all these petitions are liable to be dismissed.	ArgumentRespondent
+We have carefully considered the rival submissions as also the decisions cited before us.	None
+The power conferred upon the AO to issue notice under Section 148 of the Act for reopening the assessments in cases where income has escaped assessment, is subject to the time-limit prescribed under Section 149 of the Act.	RatioOfTheDecision
+Section 149 of the Act (as substituted by Finance Act, 2001) provides that no notice under Section 148 shall be issued after the expiry of six years from the end of the relevant assessment years in cases where the income chargeable to tax which has escaped assessment amounts to or is likely to amount to Rs. 1 lakh or more.	RatioOfTheDecision
+In the present case, the assessments for asst.	RatioOfTheDecision
+1989-90 to asst.	RatioOfTheDecision
+1999-2000 are sought to be reopened by issuing notices on 30th March, 2006 which is beyond six years (except for asst.	RatioOfTheDecision
+1999-2000) from the end of the relevant assessment years.	RatioOfTheDecision
+Thus, the notices issued for all the assessment years (except for asst.	RatioOfTheDecision
+1999-2000) are beyond the period of limitation prescribed under Section 149 of the Act and hence they are time-barred.	RatioOfTheDecision
+To get over this difficulty, it is contended by the Revenue that in the present case the limitation prescribed under Section 149 of the Act has no application because, the impugned notices have been issued to give effect to the findings and directions given by the CIT(A) on 24th Dec, 2004 and, therefore, the impugned notices are saved from limitation in view of Section 150 r w Expln.	ArgumentRespondent
+2 to Section 153.	ArgumentRespondent
+Section 150 of the Act provides that notwithstanding the limitation prescribed under Section 149, notice under Section 148 may be issued at any time for the purpose of making an assessment or reassessment or recomputation in consequence of or to give effect to any finding or direction contained in an order passed by any authority in any proceedings under the Act by way of appeal, reference or revision or by a Court in any proceeding under any other law.	Statute
+The question, therefore, to be considered in all these petitions is, whether, the Revenue is justified in contending that the impugned notices have been issued in furtherance of any finding or direction given in the order passed by the CIT(A) on 24th Dec, 2004 and if so, whether such direction are valid in law ? The CIT(A) by his order dt.	Issue
+24th Dec, 2004 has set aside the block assessment order dt.	Issue
+29th Sept., 2000.	Issue
+In the block assessment order, the AO had computed the undisclosed income of the assessee for the block period (1st April, 1988 to 30th Sept., 1998) at Rs. 2,50,31,927.	Fact
+While setting aside the block assessment order, the CIT(A) has observed thus: After going through the statements it is seen that no evidence or any material relating to such evidence was found during search proceedings on the basis of which undisclosed income can be computed under Section 158BC so as to complete and determine undisclosed income to be assessed under Section 158BC of the IT Act.	RulingByLowerCourt
+No statement was made on 17th Sept., 1998 where Mr. Stany Saldanha conceded that both the claims are not correctly made.	Fact
+Statements recorded of Mr. Stany Saldanha by Asstt.	None
+DIT, Hyderabad on 22nd Oct., 1998 (after about a month) during survey proceedings as a follow up action in GMR group of companies as a witness produced that group and physical verification of the premises belonging to the appellant company on 22nd Oct., 1998 cannot be regarded as any evidence found during search dt.	Fact
+17th Sept., 1998 which had concluded on 17th Oct., 1998 itself nor any materials can be said to be found relating to such evidence having no evidence found against the appellant as on 17th Sept., 1998.	Fact
+Thus assessment done under Section 158BC in determining undisclosed income at Rs. 2,50,31,927 is without any support of statutory provisions of Act and cannot also be done in view of the decisions by jurisdictional High Courts decision relied upon by the appellant in the case of CIT v. Vikram A. Doshi and in CIT v. Vinod Danchand Ghodawat .	Fact
+Disallowance of interest in respect of which regular entries are made in books of account and no evidence is found thereagainst during search on 17th Sept., 1998 and entries in respect of depreciation being part of regular entry to compute total income in its regular return of income and no material having been found during search dt.	Fact
+17th Sept., 1998 to deny such a claim, no undisclosed income can be determined under Section 158BC of the IT Act.	Fact
+The assessment under Section 158BC dt.	Fact
+29th Sept., 2000 has been finalized on the basis of statements recorded of Mr. Stany Saldanha on 22nd Oct., 1998.	Fact
+No evidence in respect of disallowance was found during the search on 17th Sept., 1998.	Fact
+Thus, it cannot be said that any material was found on 22nd Oct., 1998 relating to any evidence found on 17th Sept., 1998.	RulingByLowerCourt
+Even the statements recorded on 22nd Oct., 1998 in form of preliminary or final statements do not show any admission by Mr. Stany Saldanha which can be used as a material relatable to any evidence found on 17th Sept., 1998 as none was found on that date, i.e. the day of search (17th Sept., 1998) on the appellant.	Fact
+Thus, assessment under Section 158BC r w Section 158BB in determining undisclosed income does not have any leg to stand.	Fact
+Thus, undisclosed income determined at Rs. 2,50,31,927 thus does not survive.	Fact
+The order under Section 158BC passed by AO to charge undisclosed income of Rs. 2,50,31,927 to tax under Chapter XIV-B of IT Act cannot be said to be a correct order as there is no basis to pass such order for the reasons assigned above.	RulingByLowerCourt
+The additional grounds of appeal are admitted as they are necessary to decide the appeal and these go to the very root of the matter in respect of assessability of the amounts of Rs. 2,39,65,498 and Rs. 10,66,431 as undisclosed income under Chapter XIV-A of IT Act that their admission is considered necessary to correctly decide the tax liability of the appellant in accordance with law.	Fact
+I am also within my powers as per ratio of decision of Bombay High Court in case of Inventors Industrial Corporation Limited v. CIT to permit the appellant to raise above two additional grounds of discussion made above.	Fact
+The AO is free to look into and consider these disallowances under Section 148 of the IT Act in relevant assessment years in terms of Section 150(1) r w Expln.	Fact
+2 of Section 153 in respect of deletion of both amounts made in this order.	RulingByLowerCourt
+The question is, whether the above observations made by the CIT(A) constitute any finding or direction to the ITO for initiating reassessment proceedings by issuing notice under Section 148 of the Act.	Issue
+Under Section 150 of the Act, irrespective of the limitation prescribed under Section 149, reassessment proceedings can be initiated at any time if the initiation of reassessment is in consequence of or to give effect to any finding or direction contained in any order passed by any authority under the Act by way of appeal, reference or revision or by a Court in any proceeding under any other law.	Statute
+While construing similar provisions contained in the 1922 Act, the apex Court in the case of Murlidhar Bhagwan Das (supra) held that the word finding can be only that which is necessary for the disposal of an appeal in respect of an assessment of a particular year.	PrecedentReliedUpon
+The apex Court further held that the appellate authority may incidentally find that the income belongs to another year, but that is not a finding necessary for the disposal of an appeal in respect of the assessment year in question.	PrecedentReliedUpon
+Similarly, the expression direction has been construed by the apex Court to mean a direction which the appellate or revisional authority as the case may be, is empowered to give under the sections mentioned therein.	PrecedentReliedUpon
+In the present case, the CIT(A) has neither given a finding to the effect that the income chargeable to tax has escaped assessment nor given any direction to the ITO to initiate reassessment proceedings for the block period by issuing notices under Section 148 of the Act.	RatioOfTheDecision
+The clear finding recorded by the CIT(A) is that there is no evidence or any material found during the search proceedings on the basis of which undisclosed income can be computed under Section 158BC of the Act.	RatioOfTheDecision
+The CIT(A) has recorded a finding (see p. 141 of the petition) that even the statements recorded in the form of preliminary or final statements do not show any admission by Mr. Stany Saldanha (director of the assessee) which can be used as a material relatable to any evidence found on 17th Sept., 1998 as none was found on that date.	RulingByLowerCourt
+It is further held (see p. 142 of the petition) that there is nothing in the statement expressing any doubt for non-genuineness of the loan transaction as also disallowance of depreciation on fixed assets.	RulingByLowerCourt
+In these petitions, we are not called upon to decide the correctness of the above findings recorded by the CIT(A).	Fact
+The above observations of CIT(A) may be erroneous and may be set aside by the Tribunal while disposing of the appeal filed by the Revenue.	RatioOfTheDecision
+That is a different matter.	Fact
+But as the findings recorded by the CIT(A) stand today, there is no evidence or material on record to hold that the income has escaped assessment and there is no direction to the ITO to initiate reassessment proceedings.	RatioOfTheDecision
+Therefore, the contention of the Revenue that the CIT(A) has given a finding and a direction to reopen the assessments cannot be accepted.	RatioOfTheDecision
+The fact that the CIT(A) in his order dt.	RatioOfTheDecision
+24th Dec, 2004 has observed that the AO is free to look into and consider the disallowances under Section 148 of the Act in the relevant assessment years in terms of Section 150(1) r w Expln.	RatioOfTheDecision
+2 to Section 153 cannot be construed to be a direction to reopen the assessments so as to issue reassessment notices even after the expiry of six years from the end of the relevant assessment years, as contemplated under Section 150 of the Act.	RatioOfTheDecision
+The above observations made by the CIT(A) can at best be said to be a suggestion made to the AO to consider as to whether such disallowances could be made by initiating reassessment proceedings.	RatioOfTheDecision
+If the findings given by the CIT(A) were that, there is evidence or material on record to suggest that income has escaped assessment but the same cannot be brought to tax in the block assessment and accordingly if any directions were given for reopening of the assessments then it would be a totally different matter.	RatioOfTheDecision
+However, in the present case, the CIT(A) has given a clear finding that there is no evidence or material on record to sustain the additions and, hence, the CIT(A) could not have given directions to the ITO to initiate reassessment proceedings.	RatioOfTheDecision
+Therefore, the contention of the Revenue that the CIT(A) has directed the AO to initiate reassessment proceedings cannot be accepted.	RatioOfTheDecision
+As held by the apex Court in the case of Rajinder Nath (supra), the observations of CIT(A) that the ITO is free to look into and consider the disallowances, would simply mean, giving an option and discretion to the ITO to take or not to take action as he deems fit and such an observation cannot be said to be a direction given by the CIT(A) as contemplated under Section 150 of the Act.	PrecedentReliedUpon
+The decisions of this Court in the cases of CIT v. Vikram A. Doshi , CIT v. Ghodawat Pan Masala Products (P) Limited were relied upon by the counsel for the Revenue in support of his contention that the disallowances in question were liable to be made in regular assessment and not in the block assessment.	PrecedentNotReliedUpon
+In both these cases neither the scope of reassessment proceedings nor the powers of CIT(A) to direct the ITO to initiate reassessment proceedings was an issue.	PrecedentNotReliedUpon
+In any event, once it is held that the CIT(A) has not given any finding or direction for reopening the assessments, the extended period of limitation contained in Section 150 of the Act is not available to the Revenue.	RatioOfTheDecision
+Therefore, these two decisions do not support the case of the Revenue.	RatioOfTheDecision
+As stated earlier, the findings recorded by the CIT(A) may be erroneous, but till it is reversed, it is not open to the Revenue to contend that the CIT(A) has given a finding that the income has escaped assessment and has directed initiation of reassessment proceedings.	RatioOfTheDecision
+Reliance placed by the Revenue on the decision of the Allahabad High Court in the case of Ashwani Dhingra (supra) is also misplaced because in that case, the High Court had granted interest on the compensation awarded under the Land Acquisition Act.	PrecedentNotReliedUpon
+Since the interest on compensation was in the nature of income it was held that the reopening of the assessment was valid.	RatioOfTheDecision
+In the present case, the facts are altogether different.	Fact
+In the present case, the CIT(A) has held that there is no evidence or material on record to make additions and consequently there is no question of CIT(A) directing initiation of reassessment proceedings.	RatioOfTheDecision
+Apart from the above, Section 150(1) of the Act provides that the power to issue notice under Section 148 of the Act in consequence of or giving effect to any finding or direction of the appellate revisional authority or the Court is subject to the provision contained in Section 150(1) of the Act.	Statute
+Section 150(2) provides that directions under Section 150(1) of the Act cannot be given by the appellate revisional authority or the Court if on the date on which the order impugned in the appeal was passed, the reassessment proceedings had become time-barred.	Statute
+In other words, as per Section 150(2) of the Act, the CIT(A) could give directions for reassessment only in respect of those assessments years in respect of which reassessment proceedings could be initiated on the date of passing of the block assessment order on 29th Sept., 2000.	RatioOfTheDecision
+In the present case, on the date of passing of the block assessment order on 29th Sept., 2000, the assessments for most of the assessment years had become time-barred and, therefore, even if the CIT(A) were to give any directions, the same would be hit by Section 150(2) of the Act.	RatioOfTheDecision
+In any event, in the present case, the CIT(A) has not given any finding or direction for reopening of the assessments and, therefore, the provisions of Section 150 of the Act are not applicable, consequently, the impugned notices which are time-barred under Section 149 of the Act are without jurisdiction and are liable to be quashed and set aside.	RatioOfTheDecision
+Once, it is held that the CIT(A) has not given any finding or direction for reopening the assessment, the benefit of Expln.	RatioOfTheDecision
+2 to Section 153 of the Act would not be available to the Revenue.	RatioOfTheDecision
+It was contended on behalf of the Revenue that if the reassessment proceedings are allowed to be continued during the pendency of the appeal filed by the Revenue before the Tribunal against the order of CIT(A), no prejudice would be caused to the assessee.	ArgumentRespondent
+This argument is wholly misconceived.	RatioOfTheDecision
+Validity of the impugned notices cannot be decided on the basis of the prejudice that may or may not be caused to the assessee.	RatioOfTheDecision
+Whether any prejudice is caused or not, if the notices are without jurisdiction, they are liable to be quashed and set aside.	RatioOfTheDecision
+As stated earlier, validity of the order passed by CIT(A) is not questioned in these petitions and, therefore, we are not expressing any opinion on merits regarding the allowability or disallowability of bank interest and depreciation.	RatioOfTheDecision
+In these writ petitions, we are only concerned with the issue as to whether the impugned notices have been issued pursuant to the directions of the CIT(A).	RatioOfTheDecision
+Once we hold that no directions have been given by the CIT(A) for reopening the assessments, the benefit of Section 150 is not available to the Revenue and the impugned notices which are time-barred under Section 149 of the Act are liable to be quashed.	RatioOfTheDecision
+Though the notice issued under Section 148 of the Act for asst.	RatioOfTheDecision
+1999-2000 falls within six years from the end of the assessment year, in view of the fact that the AO has not obtained approval of Chief CIT CIT before issuing the notice as contemplated under Section 151 of the Act, notice for asst.	RatioOfTheDecision
+1999-2000 is also time-barred.	RatioOfTheDecision
+For all the aforesaid reasons, the reopening of the assessments for asst.	RulingByPresentCourt
+1989-90 to asst.	RulingByPresentCourt
+1999-2000 is quashed and set aside.	RulingByPresentCourt
+We, however, make it clear that the observations made herein shall not affect the case of either of the parties in the appeal pending before the Tribunal against the order of CIT(A) dt.	RulingByPresentCourt
+24th Dec, 2004.	RulingByPresentCourt
+In the result, rule is made absolute in the above terms in all the writ petitions with no order as to costs.	RulingByPresentCourt
+After the judgment and order was pronounced, Mr. Chatterjee appearing for the respondents makes a request for stay.	ArgumentRespondent
+All that we have done is to quash the reopening of the assessment.	RulingByPresentCourt
+There is no question of any stay.	RulingByPresentCourt
+The request is rejected.	RulingByPresentCourt

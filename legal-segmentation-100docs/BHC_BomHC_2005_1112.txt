@@ -1,0 +1,74 @@
+Rule, returnable forthwith.	None
+Heard finally by consent of parties.	Fact
+In this petition, the petitioner is challenging the notice dt.	Fact
+31st March, 2005, issued by respondent Number 1 for reopening assessment for the asst.	Fact
+1998-99, under Section 148 of the IT Act, 1961 (Act for short).	Fact
+Facts : The petitioner is a co-operative society registered under the Maharashtra Cooperative Societies Act, 1960.	Fact
+It carries on business of dairy and allied products at Warnanagar, taluka-Panhala, district-Kolhapur.	Fact
+The petitioner had filed its return of income for the asst.	Fact
+1998-99.	Fact
+On 22nd Sept., 2000, the respondent Number 1 issued notice under Section 143(2) read with Section 142(1) of the Act calling upon the petitioner to furnish necessary details.	Fact
+The petitioner, accordingly, supplied all details asked for and complied with the said notice dt.	Fact
+22nd Sept., 2000.	Fact
+The respondent Number 1 vide assessment order dt.	Fact
+2nd Jan., 2001 concluded the assessment after taking into consideration all the relevant material sought by him and disclosed by the petitioner.	Fact
+The respondent Number 1, on 31st March, 2005, issued notice under Section 148 of the Act seeking to reopen the concluded assessment of the petitioner for the asst.	Fact
+1998-99.	Fact
+The petitioner vide its letter dt.	Fact
+16th May, 2005 called upon the respondents to disclose the reasons recorded for reopening the assessment before issuing notice under Section 148 of the Act.	Fact
+The respondents failed to furnish said reasons.	Fact
+Consequently, left with no other alternative, the petitioner invoked writ jurisdiction of this Court under Article 226 of the Constitution of India.	Fact
+On being noticed, the respondents appeared and filed their counter-affidavits wherein they disclosed the reasons recorded prior to issuing notice dt.	Fact
+31st March, 2005.	Fact
+The said reasons read as under : Assessee is a co-operative society and engaged in procurement of milk and sale of milk and milk products.	ArgumentRespondent
+The assessee-society purchases milk from primary co-operative societies and are paying regularly for the purchase of the milk from the supplier on the basis of fat content of the milk.	ArgumentRespondent
+The assessee in its annual report for the financial year 1997-98 relevant to asst.	ArgumentRespondent
+1998-99 has mentioned that it has made provision of Rs. 7,69,40,091 for final bill of the purchase of milk.	ArgumentRespondent
+But it has not mentioned how it has arrived at the said provision of Rs. 7,69,40,091.	ArgumentRespondent
+It appears that provision of final bill was out of profit and not as business consideration.	Fact
+Whether the payment was made on account of quality or quantity of milk or comparable market price of milk or whether there was sufficient cause to make higher payment to milk producers than actual market price is not clear.	Fact
+This fact was neither examined by the then AO nor any details were filed by the assessee while assessment proceeding was going on.	Fact
+I have, therefore, reason to believe that amount of provision supposed to be paid to the producers is a mere division of profit rather than allowable business expenditure and hence the income chargeable to tax to the extent of Rs. 7,69,40,091 has escaped assessment within the meaning of Section 147 of the IT Act, 1961.	ArgumentRespondent
+Rival contentions : The learned Counsel for the petitioner contends that notice issued under Section 148 of the Act is barred by limitation in view of proviso to Section 147.	ArgumentPetitioner
+He further submits that nowhere in the reasons recorded it is stated that the petitioner -assessee had failed to disclose fully and truly all material facts necessary for the assessment for the assessment year in question, as such, the AO did not have jurisdiction to reopen the concluded assessment that too after expiry of four years from the last day of the relevant assessment year, i.e., 1998-99.	ArgumentPetitioner
+He, thus, submits that the notice under Section 148 cannot be held to be within limitation and is liable to be set aside.	ArgumentPetitioner
+On merits learned Counsel for the petitioner submits that all the relevant evidence with material facts necessary for assessment for the assessment year in question were fully and truly disclosed to the AO.	ArgumentPetitioner
+He further submits that along with return, documents or information as sought were furnished so as to enable the AO to complete the assessment under Section 143(3) of the Act.	ArgumentPetitioner
+Learned Counsel for the petitioner in support of his submission relied upon various judgments of this Court like Hindustan Lever Limited v. V.K. Pandey, Jt.	ArgumentPetitioner
+CIT and Caprihans India Limited v. Prakash Chandra .	ArgumentPetitioner
+Per contra, Mr. Rao appearing for the Revenue tried to contend that alternate remedy is open to the petitioner wherein the petitioner can raise objections before the AO and the AO can be directed to decide those objections raised by the petitioner before proceeding with the assessment.	ArgumentRespondent
+He further submits that so far as merits of the case are concerned, the same can be dealt with by the AO.	ArgumentRespondent
+As such the petitioner be directed to appear before the AO with liberty to raise objections as canvassed hereinabove.	ArgumentRespondent
+Mr. Rao sought to place reliance on the judgment of the apex Court in the case of GKN Driveshafts (India) Limited v. ITO and Ors.	ArgumentRespondent
+(2003) 259 ITR 19 (SC).	PrecedentNotReliedUpon
+In rejoinder, learned Counsel for the petitioner placed reliance on the judgment of this Court in the case of Ador Technopack Limited v. Dr. Zakir Hussein, Dy.	ArgumentPetitioner
+CIT to contend that the petitioner should not be relegated to the alternate remedy considering the admitted fact that the notice under Section 148 is (admittedly) beyond the period of limitation.	ArgumentPetitioner
+He, thus, submits that no useful purpose would be served by relegating the petitioner to the alternate remedy.	ArgumentPetitioner
+Consideration : Having heard rival parties, we are of the opinion that this petition can be disposed of on the first contention raised by the petitioner.	RulingByPresentCourt
+The petitioner has contended that from the reasons recorded it is evident that there was no failure on the part of the assessee to disclose fully and truly all material.	RatioOfTheDecision
+facts and, therefore, the reopening of the assessment beyond the period of four years is bad in law.	RatioOfTheDecision
+If there is no failure on the part of the assessee to disclose fully and truly all material facts, then, under proviso to Section 147 of the Act, the assessment cannot be reopened beyond the period of four years.	RatioOfTheDecision
+The petitioner has rightly relied upon the judgment of this Court in the case of Hindustan Lever Limited v. R.B. Wadkar 2004 (3) Mh.	PrecedentReliedUpon
+L.J. 517 wherein this Court has held as under : It is for the AO to reach to the conclusion as to whether there was failure on the part of the assessee to disclose fully and truly all material facts necessary for his assessment for the concerned assessment year.	PrecedentReliedUpon
+It is for the AO to form his opinion.	PrecedentReliedUpon
+It is for him to put his opinion on record in black and white.	PrecedentReliedUpon
+The reasons recorded should be clear and unambiguous and should not suffer from any vagueness.	PrecedentReliedUpon
+The reasons recorded must disclose his mind.	PrecedentReliedUpon
+Reasons are the manifestation of mind of the AO.	PrecedentReliedUpon
+The reasons recorded should be self-explanatory and should not keep the assessee guessing for the reasons.	PrecedentReliedUpon
+Reasons provide link between conclusion and evidence.	PrecedentReliedUpon
+The reasons recorded must be based on evidence.	PrecedentReliedUpon
+The AO, in the event of challenge to the reasons, must be able to justify the same based on material available on record.	PrecedentReliedUpon
+He must disclose in the reasons as to which fact or material was not disclosed by the assessee fully and truly necessary for assessment of that assessment year, so as to establish vital link between the reasons and evidence.	PrecedentReliedUpon
+That vital link is the safeguard against arbitrary reopening of the concluded assessment.	PrecedentReliedUpon
+The reasons recorded by the AO cannot be supplemented by filing affidavit or making oral submission, otherwise, the reasons which were lacking in the material particulars would get supplemented, by the time the matter reaches to the Court, on the strength of affidavit or oral submissions advanced.	PrecedentReliedUpon
+Impugned notice quashed.	RulingByPresentCourt
+(Emphasis, italicised in print, supplied) The aforesaid observations of this Court while interpreting the proviso to Section 147 of the Act are fully applicable to the case at hand.	RulingByPresentCourt
+The impugned notice is admittedly beyond the period of limitation prescribed under the proviso to Section 147 of the Act and in the absence of any material to show that there was failure on the part of the assessee to disclose fully and truly all materials, such notice must be held to be barred by limitation.	RatioOfTheDecision
+The same is, therefore, liable to be quashed and set aside.	RulingByPresentCourt
+On this ground alone the petition succeeds.	RulingByPresentCourt
+Since the petitioner is entitled to succeed on this ground alone, the other contentions raised by the petitioner need no consideration.	RulingByPresentCourt
+In the result, the impugned notice dt.	RulingByPresentCourt
+31st March, 2005 issued under Section 148 of the Act is quashed and set aside.	RulingByPresentCourt
+Petition is allowed.	RulingByPresentCourt
+Rule made absolute in terms of prayer Clause (a) with no order as to costs.	RulingByPresentCourt

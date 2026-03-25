@@ -1,0 +1,54 @@
+P. Devadhar, J. Heard learned counsel on both sides.	None
+Rule made returnable forthwith.	None
+By consent of the parties, the petition is taken up for final hearing.	None
+In this petition, the petitioner has challenged two notices issued under Section 148 of the IT Act, 1961 relating to the asst.	Fact
+1996-97 and 1997-98.	Fact
+The petitioner is engaged in the business of manufacture of various abrasives.	Fact
+In the returns of the income filed for the respective assessment years, the petitioner had claimed relief under Sections 80-I and 80-IA of the IT Act, 1961 (hereinafter called as the said Act).	Fact
+During the course of the assessment proceedings, the AO issued notices under Section 143(2) of the said Act calling upon the petitioner to give further particulars regarding the claim filed under Sections 80-I and 80-IA of the said Act.	Fact
+The assessee from time to time furnished the particulars and in the note relating to bond plant (p. 65 of the petition), it was submitted that the assessee had started the bond plant in the year 1991-92 for the manufacture of various bonds which are used in the manufacture of grinding wheels.	Fact
+It was stated that the bonds are major raw material for the manufacture of grinding wheels, because it is these bonds that hold the abrasive grains together in a grinding wheel.	Fact
+It was also stated that before the assessee started its own bond plant, it used to import these bonds from Norton Company, USA.	Fact
+It was stated that Section 80-IA of the said Act postulates that where products manufactured by the manufacturing unit are used for internal consumption, the profit for the purpose of 80-IA has to be calculated based on the market value of the products manufactured by the unit.	ArgumentPetitioner
+It was stated that the market value of the various bonds has been calculated by the assessee as follows : In respect of bonds which are developed by Grindwell Norton Limited, we have been successful to export the same to Dubai Singapore and in respect of these bonds, we have considered the export price as the market value of the bonds.	ArgumentPetitioner
+We enclose copies of export invoices giving the export prices of these bonds.	ArgumentPetitioner
+Other bonds are not sold to any outsider in India as a matter of strategy, and because of stringent secrecy requirements.	Fact
+The company, therefore, has considered the Norton Company price as the market value of these bonds.	Fact
+We have obtained price list of Norton Company, a copy of which is enclosed.	Fact
+If the bonds were to be imported into India by any person, including your assessee, this is the price which the said product would cost.	ArgumentPetitioner
+Accordingly, the assessee submitted before the AO that it has rightly considered the import export price as the market value of the bonds manufactured in the bond plant.	ArgumentPetitioner
+The AO being satisfied with the explanation given by the assessee, passed the assessment order granting relief under Section 80-IA of the said Act as claimed by the assessee.	RulingByLowerCourt
+After lapse of four years from the end of the relevant assessment year, the impugned notices dt.	Fact
+25th March, 2003, were issued under Section 148 of the said Act seeking to reopen the assessment for the asst.	Fact
+1996-97 and 1997-98.	Fact
+Challenging the said notices, the present petition is filed.	Fact
+During the course of hearing, counsel for the Revenue furnished reasons for reopening the assessment.	Fact
+Mr. Pardiwala, learned counsel appearing on behalf of the petitioner, submitted that in the reasons recorded for reopening the assessment, nowhere it is stated that there is failure on the part of the assessee in disclosing any material.	ArgumentPetitioner
+It was submitted that where there is no failure on the part of the assessee to disclose fully and truly all material facts, the assessment sought to be reopened after lapse of four years from the end of the relevant assessment year, cannot be sustained.	ArgumentPetitioner
+He relied upon the decisions of this Court in the case of IPCA Laboratories Ltd v. Gajanand Meena, Dy.	ArgumentPetitioner
+CIT and Ors.	ArgumentPetitioner
+(2001) 251 ITR 416 (Bom) and in the case of Bhor Industries Limited v. Asstt.	ArgumentPetitioner
+CIT and Ors.	PrecedentReliedUpon
+Accordingly, it was submitted that the impugned notices issued by the AO are without jurisdiction and are liable to be quashed and set aside, Mr. Desai, the learned senior advocate appearing on behalf of the respondents raised a preliminary objection regarding the maintainability of the petition in the light of the judgment of the apex Court in the case of GKN Driveshafts (India) Limited v. ITO and Ors.	ArgumentRespondent
+(2003) 259 ITR 19 (SC).	ArgumentRespondent
+According to the learned advocate, on receipt of the notices issued under Section 148 of the said Act and on furnishing the reasons for reopening the assessment, it was obligatory on the part of the assessee to file objections to the issuance of notice before the AO and make submissions regarding the issuance of show-cause notice, and only after the AO passes a speaking order regarding the objection raised by the assessee.	ArgumentRespondent
+Writ petition could be filed if at all the assessee is aggrieved by the order of the AO.	ArgumentRespondent
+Mr. Desai further submitted that from the reasons recorded for reopening of the assessment, it is clear that in the relevant assessment years, the assessee had failed to disclose material facts as a result, income liable to tax has escaped assessment and accordingly, the AO was justified in reopening the assessment.	ArgumentRespondent
+Thus, it was submitted that no interference is called for in a writ jurisdiction under article 226 of the Constitution of India.	ArgumentRespondent
+We have heard learned counsel on both sides.	None
+As regards the preliminary objection raised on behalf of the respondents, this Bench in the case of Ajanta Pharma Limited v. Asstt.	PrecedentReliedUpon
+CIT, bearing Writ Petition Number 1705 of 2003/decided on 29th Nov., 2003 has held that the decision of the apex Court in GKNs case (supra) does not lay down any proposition of law that in no circumstances the writ petition against the issuance of notices under Section 148 of the said Act can be entertained.	PrecedentReliedUpon
+Accordingly, there is no merit in the preliminary objection raised on behalf of the respondents.	RatioOfTheDecision
+Now turning to the facts of the present case, from the reasons recorded for reopening of the assessment, it is clear that the sole reason for reopening of the assessment is the net profit at 17 per cent of the total costs adopted by the AO for the asst.	RatioOfTheDecision
+yr, 2000-01.	None
+Nowhere in the reasons recorded by the AO, it is stated that there is a failure on the part of the assessee to disclose material facts in the return filed by the assessee.	Fact
+It is not in dispute that in the present case, reopening of the assessment is beyond the period of four years from the end of the relevant assessment year.	Fact
+This Court in the case of IPCA Laboratories (supra) and Bhor Industries Limited (supra), has held that if one reads Expln.	PrecedentReliedUpon
+2 to Section 147 including the proviso thereto, then it is clear that the cases where the Department reopens assessment within a period of four years, it can do so on the ground of income having escaped assessment even if there is no failure on the part of the assessee to disclose fully and truly all material facts.	PrecedentReliedUpon
+However, in the cases of reopening after four years, the AO must have reason to believe that the income has escaped assessment by reason of failure on the part of the assessee to disclose fully and truly all material facts.	PrecedentReliedUpon
+It is held that the Expln.	PrecedentReliedUpon
+2 cannot be read without reading the proviso to Section 147 of the said Act.	PrecedentReliedUpon
+Applying the ratio laid down in the aforesaid cases, it is clear that in the present case, in the absence of any failure on the part of the assessee to disclose fully and truly all material facts, the reopening of the assessment beyond the period of four years cannot be sustained.	RatioOfTheDecision
+Accordingly, the petition succeeds.	RulingByPresentCourt
+Rule is made absolute in terms of prayer (a).	RulingByPresentCourt
+However, there will be no order as to costs.	RulingByPresentCourt

@@ -1,0 +1,168 @@
+Mr. Justice V.S. Sirpurkar, Chairman This is an application for impleadment filed by the Financial Technologies (India) Ltd. (FTIL for short hereinafter).	Fact
+This appeal is filed by the National Stock Exchange of India Limited (appellant-NSE for short hereinafter) challenging the order dated 23rd June, 2011 wherein the Competition Commission of India (CCI for short hereinafter) has held that the appellant-NSE has engaged in the exclusionary conduct in the aftermarket for exchange related software in the Currency Derivative Segments (CD Segment for short).	Fact
+It is also found that the appellant-NSE has denied the Application Programming Interface Code (APIC for short hereinafter) for the CD segment to the Open Dealer Integrated Network (ODIN) software of the FTIL.	Fact
+It is also found that the appellant-NSE has put ODIN software on a watch-list.	Fact
+Lastly, it has been found that appellant-NSE has adopted a zero pricing policy for the competing NEAT on the Web (NOW for short) software owned by Omnesys Technologies Limited in which the appellant-NSE had acquired 28 shareholding through its wholly owned subsidiary Dot EX.	Fact
+The above mentioned three findings have ultimately resulted in holding appellant guilty of exclusionary conduct on the part of the appellant-NSE.	Fact
+In the appeal, the appellant-NSE has challenged all these findings of the respondent-CCI on the ground that it had acted bona fide and was justified in denying APIC and putting ODIN software on the watch list as there were bugs and defects in the ODIN software.	ArgumentPetitioner
+It is the further stand of the appellant-NSE that the zero pricing policy and NOW software is for the benefit of the consumer.	ArgumentPetitioner
+In its application for impleadment, the FTIL has contended that there are some allegations contentions raised by the appellant-NSE in the appeal memo and the said allegations are directly against the applicant-FTIL and as such it is entitled to be impleaded at least to refute the said allegations contentions and also to show that the same are incorrect and false.	Fact
+The short factual background will not be out of place to mention.	Fact
+As per the contentions raised in the application the applicant is a public limited company and is listed on the Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE) i.e. the appellant herein, the Ahmedabad Stock Exchange (ASE) and the Madras Stock Exchange Limited (MSE).	Fact
+The applicant claims to have its presence in Luxembourg Stock Exchange and Singapore Stock Exchange.	Fact
+As is apparent from the application, the applicant is engaged in the business of developing and supplying software to various stock exchange and commodity exchanges.	Fact
+It also provides software solutions for brokers and other market intermediaries for use in their front office, middle office and back office for the purpose of dealing on the respective exchanges.	Fact
+According to the applicant, such software is of vital importance to the members of the stock exchanges because the trading on the stock exchanges is now almost completely electronic through the use of trading terminals spread across the country.	Fact
+These trading terminals of brokers are connected to the stock exchange through the software provided by the applicant.	Fact
+Further claim of the applicant is that it is one of the earliest empanelled vendors with the appellant for front office solutions and it was also the first empanelled vendor for the BSE and Multi Commodity Exchange of India Limited (MCX).	Fact
+Therefore, it is a software vendor to the BSE, MCX, National Commodity and Derivatives Exchange (NCDEX).	Fact
+The applicant has stated the traced history of its relationship with the appellant-NSE.	Fact
+The applicant further stated that the appellant-NSE addressed a letter dated 18.6.1997 whereby the applicant was empanelled as a front office software vendor.	Fact
+The applicant has also stated about its flagship product ODIN which is described as complete front office solution for the members of the exchanges with built-in order routing, risk management and display engine with real time connectivity to the back office system.	Fact
+It is pointed out that ODIN which is popularly known as FT software and ODIN has enabled the brokers to extend their trading network to the persons who were not able to reach the market earlier and further enables the rural masses to access the markets.	Fact
+It is stated that the applicant had issued six lakh licenses of ODIN to various computer terminals across India through which they receive regulatory updates.	Fact
+It is then pointed out that NSE formed 100 subsidiary by the name NSE.	Fact
+IT Limited for the purpose of developing and offering from office software solutions.	Fact
+It is also asserted that the products of NSE.	Fact
+IT fared very poorly in the market even though they were priced much lower than the ODIN software.	Fact
+The applicant then goes on to describe role of API in which the applicant has described and explained operating system (OS) and application software.	Fact
+The applicant then explains a function and utility of APIC and goes on to state that all trades of appellant NSE occur on the electronic platforms established for different trading segments.	Fact
+They are closed server systems which can be accessed either through exchange provided terminals or through approved front office software used by brokers.	Fact
+It is then pointed out that the appellant-NSE follows empanelment procedure for approving software vendors and once vendors are approved, the APICs respective trading segments are shared only with the vendors empanelled for that segment.	Fact
+It is, therefore, pointed out that such empanelment vendors who have access to the APIC of the relevant segment alone can develop front office solutions that could run on the appellant-NSEs server and thus APIC is the essential and crucial indispensable communication link between the empanelled vendors front office software and the appellants server system.	Fact
+The applicant then goes on to explain formulation of MCX a company promoted by the applicant and a new company promoted by the applicant and MCX together being MCX Stock Exchange Limited (MCX-SX).	Fact
+It is then pointed out that on August 29, 2008, NSE launched CD segment and became the first trading platform in India for exchange traded currency feature and that the SEBI granted recognition to respondent Number 2-MCX-SX as the stock exchange for CD segment on 18.09.2008.	Fact
+It is then pointed out that the appellant-NSE through Dot EX International Limited which is a wholly owned subsidiary of the appellant acquired ownership stake of 28 in Omnesys and started distributing front-end software solution NOW (NEAT on Web) free of cost to its members to eliminate ODIN from the market.	Fact
+It is pointed out that NOW is the front office software developed by Omnesys.	Fact
+The applicant points out that NSE struck a deal with Omnesys whereby it offered NOW free of cost to its trading members and simultaneously invested 28 stake in Omnesys through Dot Ex which was and is wholly owned subsidiary.	Fact
+It is then complained that after stake acquisition in Omnesys, the appellant-NSE took various anti-competitive measures promoting Omnesys business with intent to injure the applicants business.	Fact
+In short, the following anti-competitive actions are complained in the application.	Fact
+They being :- Refusal to grant access to the APIC of the appellants CD segment and refusal to empanel the applicant as a software vendor in the CD segment, though the same was sought through the correspondence by the applicant.	ArgumentPetitioner
+Refusal to approve improved version of the applicants product.	ArgumentPetitioner
+It is stated that in spite of repeated requests from the applicant and its client, the applicant has deliberately not responded to the applications seeking approvals of the above mentioned facilities.	ArgumentPetitioner
+According to the applicant, again on the part of the appellant-NSE was essentially a message signal to its members not to use the applicants products as their front office solution.	ArgumentPetitioner
+It is then contended that the officials of the appellant have informed their trading members off the record that they should consider using software of alternative vendors.	ArgumentPetitioner
+Then the applicant refers to a Civil Suit Number 1 of 2009 filed on 15.12.2008 against the appellant before the High Court of Bombay wherein an interim order was passed on February 13, 2009.	ArgumentPetitioner
+That the appellant has put the applicants product on a watch-list.	ArgumentPetitioner
+It is reiterated that the applicant has been an empanelled vendor of the appellants segments for more than a decade and the appellant had no issues with the applicants performance only till such time as the applicants interest to enter the stock exchange business.	ArgumentPetitioner
+A reference is then made to the letter sent by the appellant to the applicant alleging that the appellant had received two complaints consequent to which the applicant was put under watch list and hence the appellant was unable to consider the applicants application for the APIC of its CD segment.	ArgumentPetitioner
+There is a reference to the correspondence whereby various queries were made by the applicant.	ArgumentPetitioner
+It is then complained that appellant-NSE offering NOW for free of cost to Omnesys.	ArgumentPetitioner
+NOW being the front end solution of Omnesys and a competing substitute product of ODIN.	ArgumentPetitioner
+This was clearly an exclusionary technique on the part of the NSE.	ArgumentPetitioner
+The applicant thereafter refers to the suit filed on 15.12.2008 and a reference has also made to the order passed by Single Judge of the Honble High Court of Bombay appointing Court Commissioners to submit their report on the applicants product.	Fact
+A reference is then made to the order of the Division Bench.	Fact
+Further a reference is made to the impugned order in appeal where the appellant NSE was found guilty to exclusionary behavior and also the order passed under Section 27 of the Competition Act, 2002 (in short the Act).	Fact
+Then a reference is made to the negotiations and resultant consent decree entered into between the appellant and the applicant on 3.8.2011 that is clearly after the order passed by the CCI against the appellant-NSE.	Fact
+The following are quoted as the Consent terms :- The Appellant will audit the Applicants software ODIN through Price Waterhouse Coopers (PWC) an independent Auditor to identify any bugs, defects or similar issues The applicant has agreed that, in the event any bugs, defects or similar issues are found, the Appellant shall give the Applicant reasonable opportunity to rectify such bugs, errors or similar issues.	Fact
+The Appellant has agreed to remove the Applicant from the watch list with immediate effect on the filing of the consent terms In relation to certain identified products and services, the Appellant has agreed to provide the APIC for the CD Segment with immediate effect, however, final empanelment shall be subject to successful completion of the audit In relation to certain other identified products and services, the APIC shall be provided by the Appellant only after successful completion of the audit The Applicant shall at all times abide by the terms of the undertaking provided earlier to the Appellant and co-operate in the inspection and testing of its software and that the Appellant shall not seek any source code or any IPR related documents or information from the Applicant.	Fact
+It is pointed out that immediately after the Consent Decree the appellant has removed the applicant from its watch list and the APIC was also provided.	Fact
+Thus, practically all the grievances of FTIL were removed.	Fact
+It must be shown here that this Consent Decree is dated 3.8.2011 which is after the order passed by the CCI, which was passed on 23.6.2011.	Fact
+It is then contended that though all the disputes between the parties were put at rest with the Consent Decree yet in order to assail the order passed by the CCI, the appellant has raised the stand that its position is vindicated because of the Consent Decree.	Fact
+In that the applicant submits that the settlement does not vindicate the position of the appellant but shows that the parties have put an end to the litigation without prejudice to their stand.	Fact
+The applicant, therefore, apprehends that the appellant may raise the issue in the appeal before us and complain about the applicants product and thereby substantiate the necessity of the applicant being put on the watch list.	Fact
+According to the applicant, it may also justify the refusal to provide APIC to the applicant on the ground that everything with ODIN was not alright and that it was done out of fair justification and thus the applicant would remain unheard if not joined as a party could not answer the contentions raised by the appellant.	Fact
+This application was replied to by the appellant wherein the applicant refers to the prayer clauses of the impleadment application, which was as follows :- (a) to allow the applicant to be impleaded as party Respondent Number 3 and to be heard (b) alternatively direct the appellant to remove any references arguments regarding the already compromised matter between the applicant and the appellant and or (c) pass any such further order(s) as this Honble Tribunal may deem fit and proper in the facts and circumstances of the present case.	Fact
+In paragraph 3 the appellant has specifically given an undertaking not to place reliance on the Consent Decree passed by the High Court of Bombay in Suit Number 1 of 2009 to demonstrate that it was justified in denying the APIC for the CD Segment to FTIL and to put FTIL on a watch list in other segments.	Fact
+In view of this undertaking, according to the applicant, nothing survives in the impleadment application.	Fact
+In its preliminary submissions, it is suggested that even if the FTIL is aggrieved by any reliance placed by the appellant on the Consent Decree to justify its actions, there would be no grievance in view of the undertaking given and that there was no cause of action in favour of FTIL.	Fact
+It was then reiterated that the dispute between the FTIL and the appellant was fully settled and that it was neither a necessary nor a proper party.	Fact
+Appellant in paragraph 9 clarifies that the reference to the Consent Decree is limited to showing that it did not have any mala fide or anticompetitive intent in denying the APIC to FTIL or putting it under a watch list.	Fact
+It is specified that the appellant does not intend to challenge the Consent Decree through the present proceedings nor does it seek to imply that there has been any admission of liability by FTIL pursuant thereto.	Fact
+It is further pointed out that FTIL itself had not filed any information or a complaint before the CCI and in fact the issues raised therein were subjudice before the High Court of Bombay and such pendency was not reported to the CCI.	Fact
+It is further pointed out that FTIL did not seek to be impleaded to the original proceedings before CCI and was therefore not entitled to join before the Appellate Tribunal such as a party.	Fact
+It was, therefore prayed that the application for impleadment should be dismissed.	Fact
+Not content with the undertaking offered by the appellant, the FTIL filed a rejoinder to the reply but even before that an amendment application was moved wherein the prayer (b) to the application for amendment was sought to be amended.	Fact
+The amended clause as suggested in the amendment application was to the following effect :- 33(b) alternatively direct the Appellant to remove any and all references arguments regarding the already compromised matter between the Applicant and the Appellant before the High Court of Bombay in Suit Number 1 of 2009 and all other facts in issue and questions of law raised in the Appeal pertaining to the Applicant.	Fact
+underlined portion signifies the amendment 1 0 .	Fact
+It was suggested that in spite of such undertaking the facts in issue and questions of law raised in appeal pertaining to the applicant would still remain on record and would be open to the appellant to address its arguments pertaining thereto.	Fact
+The further contents of the rejoinder show that the applicant was not able to raise the facts in issue and questions of law in appeal pertaining to the applicant.	Fact
+It is further contended in the rejoinder in paragraph 11 in the following manner :- The Applicant further submits that it did not implead itself in the proceedings before Respondent Number 1, as the applicant has filed Suit Number 1 of 2009 dated December 15, 2008 before the Honble High Court of Bombay against the Appellant on the same issues and the same would have led to duplicity of proceedings.	Fact
+As submitted by the Applicant above, even if the Appellant gives an undertaking before this Honble Tribunal to the effect that the Appellant does not wish to rely on the Consent Decree, the Fact in Issue and Question of Law raised in the Appeal pertaining to the Applicant still survive and therefore the Honble Tribunal may be pleased to allow the Application for Impleadment in the interests of justice and to protect the rights and interests of the Applicant herein.	Fact
+It was further reiterated in paragraph 13 that though the appellant had agreed not to rely on paragraphs 3.5(a), 8.18, 55 and 145 of the Appeal in the undertaking to be provided by the appellant and also on the statement that the Consent Decree has vindicated its position.	Fact
+The Appellant further submits that such undertaking shall not preclude it from raising Fact in Issue and questions of Law and in that view it was necessary to allow the impleadment.	Fact
+Law of natural justice was also relied upon and it was suggested that the undertaking would be of no consequences as the appellant would get a chance to call the names to applicants system and the product of the applicant and the applicant would be left without any opportunity to rebut the same.	Fact
+In paragraph 16 of the rejoinder, it is again reiterated that applicant had filed no information or complaint as the applicant had filed Suit Number 1 of 2009 on December 15, 2008 before the High Court of Bombay.	Fact
+It is also suggested in the same paragraph that the applicant chose not to implead itself to the proceedings before Respondent Number 1 as the matter under dispute was already sub judice before the High Court of Bombay.	Fact
+Since we have already made a reference to the main features of the amendment of the impleadment application, we refrain from repeating its contents in their amendment application.	Fact
+The appellant had filed a huge reply to the said amendment application opposing the same.	Fact
+It was reiterated in the amendment application that FTIL was an attempting to curtail the appellants statutory right to appeal against the findings of respondent.	Fact
+Lengthy arguments were addressed by Shri Krishnan Venugopal on behalf of the appellant and Shri Amit Sibal opposing the same.	Fact
+Huge written submissions were also filed after the arguments.	Fact
+We have now to see as to whether impleadment application should be allowed or not.	Fact
+The substance of the argument of Shri Venugopal was mainly on the denial of natural justice to him in case the applicant is not joined as a party.	ArgumentPetitioner
+The learned counsel suggests that though the undertaking has been given by the appellant not to rely upon the particular contentions raised in the appeal and also the facts regarding the compromise decree still there were some facts in issue and the law points in the appeal which needed intervention on the part of the applicant at least to meet and to contradict the argument on the part of the appellant which was bound to raise the issues regarding the demerits of the applicant and its system ODIN.	ArgumentPetitioner
+It is reiterated by him that if the grounds of appeal raised by the appellant-NSE are accepted that would have a serious adverse impact on the reputation and business of the applicant-FTIL.	ArgumentPetitioner
+As against this, Shri Sibal argues that such apprehension is absolutely out of place as the appellant has given an undertaking.	ArgumentRespondent
+Not to reiterate the contentions raised in paragraph 3.5(a), 8.18, 55 and 145 which deal with the demerits of the appellant system.	ArgumentRespondent
+We have earlier indicated a clear undertaking given in their reply by the appellant whereby the appellant had specifically reiterated not to rely on the contentions relating to the merits and demerits of the system.	ArgumentRespondent
+Shri Sibal argues that all that he would venture to argue before this Tribunal is that the action on the part of the appellant firstly in not providing APIC and secondly putting ODIN system on watch list was not a mala fide action and the same was not done with any anti- competitive intent.	ArgumentRespondent
+We have gone through the applications, its reply and the rejoinders filed before us by the parties.	Fact
+We are of the clear opinion that in view of this undertaking, there would be no question of allowing the applicant as a party.	RatioOfTheDecision
+After all if no contentions are raised as to the demerits of the system of the applicant, there would be nothing for the applicant to rebut.	RatioOfTheDecision
+In fact, at this juncture, we must point out that presently there are no issues to that effect in between the appellant and the applicant particularly in view of the consent decree in between the appellant and the applicant.	RatioOfTheDecision
+The terms of the consent decree specifically provide that all the disputes have been put to rest.	RatioOfTheDecision
+If that is so, there would be no question of the applicant suffering in any manner.	RatioOfTheDecision
+After all grievance of the applicant remains no more and the applicant have now been armed with APIC which has been provided by the appellant.	RatioOfTheDecision
+So also the appellant has in pursuance of the consent decree removed the applicant from the watch list.	RatioOfTheDecision
+Once this position is obtained, there would be no question for this Tribunal to consider merits and demerits of the system of the applicant and eventually therefore there would be no question of allowing applicant to join as a party to this appeal.	RatioOfTheDecision
+A reference was made to the reported decision in  : (1975) 1 SCC 70 M section Erusian Equipment Chemicals Vs.	PrecedentNotReliedUpon
+State of West Bengal.	PrecedentNotReliedUpon
+We have absolutely no quarrel with the principles in that ruling.	RatioOfTheDecision
+However, that ruling is entirely on the different set of facts and hence not applicable.	RatioOfTheDecision
+Shri Venugopal then contended before us that the conduct of the Appellant-NSE in the aftermarket for the exchange related software in the CD segment had certainly violated Section 4(2)(b)(i) (ii) and Section 4(2)(c) and 4(2)(d) of the Act.	ArgumentPetitioner
+The learned counsel then urged that unless the applicant was the party it could not justify this finding against the appellant by the CCI.	ArgumentPetitioner
+The learned counsel says that if such finding is negated then it would have adverse impact on the applicant in so far as Section 53N of the Act is concerned.	ArgumentPetitioner
+In our opinion, the contention is completely unwarranted as Section 53N stands completely on different footing.	RatioOfTheDecision
+The language clearly shows that independent of any provisions in the Act, any person could make an application to the Tribunal to adjudicate on claim for compensation which may arise from the findings of the Commission or the orders of the Appellate Tribunal in an appeal against any finding of the Commission.	RatioOfTheDecision
+No such application has been made before us.	RatioOfTheDecision
+Therefore, the argument is pre-mature.	RatioOfTheDecision
+At any rate, it will be a vexed question as to whether such application would lie at the behest of the applicant who has compromised its disputes in respect of the very same actions on the part of the appellant for which the appellant stands indicted by the CCI.	RatioOfTheDecision
+We do not wish to go into the question, at this juncture, in the absence of any application.	RatioOfTheDecision
+The learned counsel very heavily relied on Section 36(1) of the Act where the Commission is to be guided by the principles of natural justice.	ArgumentPetitioner
+The learned counsel, therefore, says that in appeals also this Tribunal should follow the same principles.	ArgumentPetitioner
+We have absolutely no dispute with the proposition that this Appellate Tribunal would be guided by the principles of natural justice.	RatioOfTheDecision
+However, in the wake of the facts of this case we are completely at a loss to follow as to how the lofty principles of natural justice would apply to the present situation where on the identical issues there is a complete understanding between the applicant and the appellant and whereby all the disputed questions have been put to rest, not only this, but as a result of which the grievances of applicant are also put to rest.	RatioOfTheDecision
+Under such circumstances, there would be no question of relying on the provisions of Section 53N as is sought to be done nor would there be any question of denial of principles of natural justice by not allowing the applicant to join as a party to this appeal.	RatioOfTheDecision
+We have absolutely no quarrel with the proposition led by the Honble Supreme Court in paragraph 103 of  : (2010) 10 SCC 744 in the matter of CCI vs Steel Authority of India Limited that the concept of necessary party must be interpreted liberally at the relevant stage.	PrecedentNotReliedUpon
+However, in the present circumstances and in view of the peculiar facts, we cannot pursue ourselves to allow applicant to join as a party to this appeal.	RatioOfTheDecision
+If we allow that, the applicant would be allowed to reap the benefit of the consent decree and also tend it to exploit the provision of Section 53N of the Act when admittedly the dispute is on the identical issue both in the civil suit as well as before the CCI.	RatioOfTheDecision
+We must take note of the fact the even before the CCI, the applicant did not venture to join itself as a party or to address the CCI.	RatioOfTheDecision
+A very convenient explanation was sought to be given that it did not know of the Director Generals report.	RatioOfTheDecision
+We have noted that the enquiry was made from the applicant-FTIL by the Director General and we refuse to believe that when MCX-SX was being actively engaged in its battle versus NSE, its friendly party the FTIL would not be in a position to know about the same.	RatioOfTheDecision
+At any rate we must note that FTIL-applicant cannot now seek to join for the fear of the findings recorded by the CCI being negatived.	RatioOfTheDecision
+We must visualize here that even in the wake of such situation that the findings of the CCI against the appellant are negatived there is no question of FTIL suffering in any manner, for the simple reason that there is a consent decree in between FTIL and the appellant wherein all the disputes have been completely taken care of.	RatioOfTheDecision
+Further in pursuance of that FTIL has also been benefited in the sense that it has now acquired APIC and would stand to lose nothing even if the findings are negatived.	RatioOfTheDecision
+The contentions raised by the learned counsel that it would suffer in its reputation etc.	RatioOfTheDecision
+have no place because of the undertaking given by the appellant that it is not going to press the issues about demerits of the system of the applicant.	RatioOfTheDecision
+Under the circumstances, we do not see any justification for the applicants joining as a party.	RatioOfTheDecision
+It was argued on the basis of the reported decision in  : (1975) 1 SCC 70 - M section Erusian Equipment and Chemicals vs State of West Bengal that by black listing the applicant herein, the applicant had suffered a great prejudice and the injustice and would be perpetuated by not hearing the applicant at the appellate stage.	PrecedentNotReliedUpon
+In the first place, the ruling does not apply on facts at all where the Honble Supreme Court was explaining the principles and effects of black listing a contractor.	RatioOfTheDecision
+Such is not the position here.	RatioOfTheDecision
+There is no black listing at all.	RatioOfTheDecision
+The applicant was merely put on the watch list and that grievance has also now been put to rest.	RatioOfTheDecision
+The other three rulings cited namely  : (2009) 2 SCC 703 - Asit Kumar Kar vs State of West Bengal  : (2010) 10 SCC 408 - State of Assam vs Union of India and  : AIR 1963 SC 786 - Udit Narain Singh Malpaharia vs Additional Member, Board of Revenue, Bihar are totally irrelevant for the purposes of present controversy.	PrecedentNotReliedUpon
+In our opinion, in the first place the applicant has not been able to establish that it can be an affected party at all.	RatioOfTheDecision
+Nothing is stated before us as to in what manner it could suffer and indeed the applicant cannot suffer in view of the compromise decree.	RatioOfTheDecision
+It is then argued that if the appellant-NSE chooses to pursue its appeal then the applicant-FTIL stands to be adversely affected and as such would be a necessary party.	RatioOfTheDecision
+We do not agree.	RatioOfTheDecision
+The decisions cited are not apposite to this contention and are entirely different on facts.	RatioOfTheDecision
+It was tried to be suggested that from the scheme of the Act, it was clear that the applicant must be impleaded as a necessary party irrespective of whether it was a party before Respondent Number 1 - CCI in the proceedings.	RatioOfTheDecision
+We do not agree.	RatioOfTheDecision
+On the back drop of peculiar facts of this case we are of the clear opinion that the applicant suffers from serious lack of bona fides in firstly compromising all the issues with the appellant and thereafter seeking to challenge that very compromise with a view to reap benefits via Section 53N. The claim on the part of the applicant that it did not have the opportunity to see the report of the DG and therefore it did not have occasion to seek the impleadment of R-1-CCI is only mentioned to be rejected in fact we have already dealt with this contention in the earlier part of the order.	RatioOfTheDecision
+Further, argument that had the findings of the CCI been adverse to the applicant it could have filed an appeal has nothing to do with the present controversy about the impleadment of the FTIL in the present appeal.	RatioOfTheDecision
+It was again and again repeated that the FTIL would be an affected party, we do not agree with this contention in view of what has already been stated about the compromise between the appellant and the applicant.	RatioOfTheDecision
+It was complained that the facts regarding the compromise were brought before this Tribunal for the first time.	RatioOfTheDecision
+We fail to understand the implication of this argument particularly in view of the fact that the date of compromise is later to the date of the impugned order passed by the CCI.	RatioOfTheDecision
+The argument is, therefore, rejected.	RatioOfTheDecision
+The principles of Order-1 Rule 10 relied upon by the applicant to press its application clearly speak against the applicant for the simple reason that the applicant suffers from severe lack of bona fides.	RatioOfTheDecision
+Much was argued on the doctrine of election and it was contended that the doctrine of election did not apply to the proceedings under the Act.	RatioOfTheDecision
+We are not rejecting the application relying on doctrine of election.	RatioOfTheDecision
+In our opinion, the application is not bona fide at all for the reasons stated by us in the earlier part of the order.	RatioOfTheDecision
+It was tried to be suggested that the cause of action in the Civil Suit before the Bombay High Court was based on the contractual breach and was a separate cause of action from the proceedings before the respondent Number 1 CCI.	RatioOfTheDecision
+In our view, this contention has no basis in view of the admissions by the applicant in its reply to the effect that the controversy was identical in both before the High Court as also the CCI.	RatioOfTheDecision
+In view of what has been stated before us, we do not find any merits whatsoever in the contentions raised before us in support of the application for impleadment.	RatioOfTheDecision
+We, therefore, dismiss the same.	RulingByPresentCourt
+Under the circumstances there will be no orders as to costs.	RulingByPresentCourt
+Pronounced in the open Court today i.e. 5th day of October, 2012.	None

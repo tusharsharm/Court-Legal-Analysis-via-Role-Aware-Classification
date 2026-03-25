@@ -1,0 +1,32 @@
+IN THE HIGH COURT AT CALCUTTA Special Jurisdiction (Income Tax) ORIGINAL SIDE ITA Number201 of 2007 Commissioner of Income Tax, Kolkata-II Versus Brentwood Investments Limitd BEFORE: The Honble JUSTICE I.P. MUKERJI AND The Honble JUSTICE AMRITA SINHA Date : June 27, 2018 Appearance: Mr. J. P. Khaitan, Sr.	None
+Mr. Pramit Bag, Adv.	None
+Mr. A. K. Dey, Adv.	None
+Mr. M. P. Agarwal, Adv.	None
+Ms. Smita Das De, Adv.	None
+The Court : This is an appeal under Section 260A of the Income Tax Act, 1961.	Fact
+More than 10 years ago, on 9th April, 2007 this appeal was admitted by a Division Bench of this Court to be heard on the following substantial questions of law: Whether, in the circumstances of the case, the Income tax Appellate Tribunal is correct in restricting the disallowance of interest to Rs.8,12,926/- only out of interest of Rs.3,29,43,952 claimed in view of the fact that the interest pertaining to the money lending business, as stated by the assessee before the Assessing Officer and the Commissioner of Income Tax (Appeals) amounted to Rs.38,75,246/- only and the balance interest pertaining to acquisition of shares held as investment and dealing shares, income from dividend being exempt under section 10(33) of the Income Tax Act and the interest paid for acquisition of shares inadmissible in terms of section 14A of the act? Whether, on the facts and in the circumstances of the case, the order of the Tribunal deleting Rs.9,12,926 being provision for NPA (non-performing assets) is erroneous in view of the decision of the Honble Madras High Court in case of the T.N. Power Finance Infrastructure Corp. Limited 491 as the provision is not allowable as a bad debt according to provisions of the Income Tax Act,l 1961, section 36(1(vii)? As far as the second question is concerned, most fairly, Mr. Khaitan, learned Sr. Advocate for the assessee, concedes that the issue is covered in favour of the Revenue by the Supreme Court in Southern Technologies Limited V. Joint Commissioner of Income Tax, reported in 2010 320 ITR 577 (SC).	Issue
+We answer the question in the affirmative in favour of the Revenue and against the assessee.	RulingByPresentCourt
+As far as question Number1 is concerned, we find that the Tribunal had no difficuly in understanding the law, namely, that expenses could not be claimed as a deduction from income which was exempted from taxation or was not exigible to tax.	RulingByLowerCourt
+From the formulation of the question by the order dated 9th April, 2007, it appears that the greivance of the Revenue is misapplication of the law by the tribunal.	ArgumentPetitioner
+We do not think this is a substantial question of law at all.	RatioOfTheDecision
+There is no dispute or misunderstanding with regard to the law.	RatioOfTheDecision
+For those reasons, we do not think it proper to interfere with the finding of the Tribunal with regard to the issue covered by question Number1.	RulingByPresentCourt
+Mr. Agarwal, learned Advocate for the Revenue, proposed to introduce a third issue.	ArgumentPetitioner
+He said that this question was sought to be raised in Court at the time of admission of the appeal.	ArgumentPetitioner
+This particular question was not accepted by the Court.	Fact
+The question is set out below: Whether, on the facts and in the circumstances of the case, the Income Tax Appellate Tribunal was correct in holding that the provisions of Explanation below Section 73 of the Income Tax Act, 1961, were not attracted in the case of the assessee.	Issue
+The records do not show that this issue was considered by the Court at the time of admission of the appeal.	RatioOfTheDecision
+Hence the question of res judicata does not apply.	RatioOfTheDecision
+The proviso to Section 260A, sub-Section (4) provides that nothing shall be deemed to take away or abridge the power of the court to hear, for reasons to be recorded, the appeal on any other substantial question of law not formulated by it, if it is satisfied that the case involved such question.	Statute
+Mr. Agarwal was on the explanation to Section 73 of the Income Tax Act, 1961.	ArgumentPetitioner
+He stated that if any part of the business of the company was of a nature other than those stipulated in the explanation, such company shall for the purposes of the section be deemed to be carrying on speculation business, if it dealt with the purchase and sale of shares of other companies.	ArgumentPetitioner
+He contended that the assessee was carrying on the kind of speculative business contemplated in the section.	ArgumentPetitioner
+He relied upon a Division Bench of this Court in R.P.G. Industries Limited vs Commissioner of Income-Tax and Another reported in 2011 338 ITR 313 (Cal).	PrecedentReliedUpon
+Therefore, any speculation loss concerning the assessees business could be adjusted against income from a similar kind of business and not from any other business.	ArgumentPetitioner
+Mr. Khaitan, learned Senior Advocate, shows us the judgment of the Tribunal where it was specifically observed that the income of the assessee from dealing with shares etc.	ArgumentRespondent
+did not result in any loss.	ArgumentRespondent
+Hence, there was no question of adjustment of this loss against any other head of income from the business which was not speculative in nature.	RatioOfTheDecision
+Hence, although the proposition of law formulated by Mr. Agarwal is absolutely correct, it is inapplicable to the facts of this case.	RatioOfTheDecision
+In those circumstances, this 260A appeal is partly allowed by answering question number2 in favour of the revenue and against the assessee.	RulingByPresentCourt
+No order as to costs.	RulingByPresentCourt
+P. MUKERJI, J.) (AMRITA SINHA, J.) CS	None
