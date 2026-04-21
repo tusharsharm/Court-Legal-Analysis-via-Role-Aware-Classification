@@ -1,8 +1,8 @@
 # Court-Legal-Analysis-via-Role-Aware-Classification
 Final Year MSc Project
-# CLARA — Court Legal Analysis via Role-Aware Classification
+# RRL — Court Legal Analysis via Role-Aware Classification
 
-**CLARA** is a two-stage NLP pipeline designed for automated analysis of legal judgments. It combines rhetorical role labeling with intelligent summarization to make court documents more accessible and structured.
+**RRL** is a two-stage NLP pipeline designed for automated analysis of legal judgments. It combines rhetorical role labeling with intelligent summarization to make court documents more accessible and structured.
 
 ---
 
@@ -12,13 +12,13 @@ Raw Legal Document
         │
         ▼
 ┌─────────────────────┐
-│   Step 1: CLARA-RR  │  ← Rhetorical Role Classification
+│   Step 1: RRL-RR  │  ← Rhetorical Role Classification
 │  (Role Labelling)   │     Labels each sentence by its legal function
 └─────────────────────┘
         │
         ▼  (labelled sentences)
 ┌─────────────────────┐
-│  Step 2: CLARA-SUMM │  ← Legal Summarization
+│  Step 2: RRL-SUMM │  ← Legal Summarization
 │  (Summary Pipeline) │     Extracts + abstracts a structured summary
 └─────────────────────┘
         │
@@ -28,13 +28,13 @@ Structured Legal Summary (by role section)
 
 ---
 
-## Step 1 — CLARA-RR: Rhetorical Role Labelling
+## Step 1 — RRL-RR: Rhetorical Role Labelling
 
 **File:** `rhetoric_role_labelling_pipeline.ipynb`
 
 ### Purpose
 
-CLARA-RR classifies every sentence in a legal judgment into one of four rhetorical roles. This enables structured downstream analysis by identifying *what function* each sentence serves in the judgment.
+RRL-RR classifies every sentence in a legal judgment into one of four rhetorical roles. This enables structured downstream analysis by identifying *what function* each sentence serves in the judgment.
 
 ### Dataset
 
@@ -45,15 +45,15 @@ Shubham Kumar Nigam, Tanmay Dubey, Govind Sharma, Noel Shallum, Kripabandhu Ghos
 | Documents | 7,120 |
 | Sentences | ~1.4 million |
 | Original Labels | 7 (LegalSeg schema) |
-| Remapped Labels | 4 (CLARA-RR schema) |
+| Remapped Labels | 4 (RRL-RR schema) |
 | Baseline | Hier-BiLSTM-CRF, Macro-F1 = 0.77 |
 | Hardware | Kaggle T4 (16 GB VRAM) |
 
 ### Label Remapping
 
-The LegalSeg dataset uses 7 labels. CLARA-RR remaps these to 4 meaningful legal roles and drops the uninformative `None` class:
+The LegalSeg dataset uses 7 labels. RRL-RR remaps these to 4 meaningful legal roles and drops the uninformative `None` class:
 
-| LegalSeg Label | CLARA-RR Label |
+| LegalSeg Label | RRL-RR Label |
 |---|---|
 | Facts | Facts |
 | Reasoning | Ratio |
@@ -67,7 +67,7 @@ The LegalSeg dataset uses 7 labels. CLARA-RR remaps these to 4 meaningful legal 
 
 **Base Encoder:** `law-ai/InLegalBERT` — a BERT model pretrained on Indian legal text.
 
-The full CLARA-RR model (`CLARAModel`) stacks several purpose-built modules on top of the encoder:
+The full RRL-RR model (`RRLModel`) stacks several purpose-built modules on top of the encoder:
 
 - **Context-Aware Tokenization** — Each sentence is encoded with a ±3 sentence context window, joined via `[SEP]` tokens, giving the model local discourse context.
 - **RoleAwareAttention** — Multi-head self-attention over all sentences in a document, with optional role-conditioned embeddings for a second refinement pass.
@@ -97,7 +97,7 @@ The full CLARA-RR model (`CLARAModel`) stacks several purpose-built modules on t
 
 ### Loss Functions
 
-CLARA-RR uses a composite loss designed to handle class imbalance and structural properties of legal text:
+RRL-RR uses a composite loss designed to handle class imbalance and structural properties of legal text:
 
 | Loss Component | Weight | Purpose |
 |---|---|---|
@@ -118,11 +118,11 @@ Class weights are computed using **Effective Number Weighting** (Cui et al., 201
 | Cell 3 | Dataset and model paths (Kaggle) |
 | Cell 4 | `Config` class — all hyperparameters and label maps |
 | Cell 5 | Class weight computation |
-| Cell 6 | CSV loading and LegalSeg → CLARA-RR label remapping |
+| Cell 6 | CSV loading and LegalSeg → RRL-RR label remapping |
 | Cell 7 | Document list builder (groups sentences by `doc_id`) |
 | Cell 8 | Tokenizer + `LegalSegDataset` (context encoding, lexicon features, positions) |
 | Cell 9 | Model components: `PositionPriorBias`, `LexiconEmissionBias`, `RoleAwareAttention` |
-| Cell 10 | Full `CLARAModel` assembly with CRF and structural priors |
+| Cell 10 | Full `RRLModel` assembly with CRF and structural priors |
 | Cell 11 | BERT layer freeze/unfreeze helpers |
 | Cell 12 | Training loop with AMP, gradient accumulation, progressive unfreezing |
 | Cell 13 | Main training execution: data loading, model init, optimizer, scheduler |
@@ -136,19 +136,19 @@ Class weights are computed using **Effective Number Weighting** (Cui et al., 201
 
 | File | Description |
 |---|---|
-| `clara_legalseg_best.pt` | Best model checkpoint (by validation Macro-F1) |
-| `clara_legalseg_results.json` | Full results summary (metrics, config, baseline delta) |
+| `RRL_legalseg_best.pt` | Best model checkpoint (by validation Macro-F1) |
+| `RRL_legalseg_results.json` | Full results summary (metrics, config, baseline delta) |
 | `viz_01_dataset_distribution.png` | Label distribution before and after remapping |
 | `viz_02_training_curves.png` | Training loss and validation F1 per epoch |
 | `viz_03_confusion_matrix.png` | Test set confusion matrix (counts + recall-normalised) |
 | `viz_04_perclass_metrics.png` | Per-class Precision / Recall / F1 bar chart |
-| `viz_05_baseline_comparison.png` | CLARA-RR vs all LegalSeg baselines |
+| `viz_05_baseline_comparison.png` | RRL-RR vs all LegalSeg baselines |
 | `viz_06_position_distribution.png` | Role distribution by document position |
 | `viz_07_dashboard.png` | Full results dashboard |
 
 ### Baseline Comparison
 
-CLARA-RR is benchmarked against all systems reported in the LegalSeg paper:
+RRL-RR is benchmarked against all systems reported in the LegalSeg paper:
 
 | Model | Macro-F1 |
 |---|---|
@@ -160,17 +160,17 @@ CLARA-RR is benchmarked against all systems reported in the LegalSeg paper:
 | GNN | 0.54 |
 | ToInLegalBERT | 0.62 |
 | **Hier-BiLSTM-CRF (LegalSeg paper)** | **0.77** |
-| **CLARA-RR v5 (ours)** | **TBD (target: > 0.77)** |
+| **RRL-RR v5 (ours)** | **0.79 (target: > 0.77)** |
 
 ---
 
-## Step 2 — CLARA-SUMM: Legal Summarization Pipeline
+## Step 2 — RRL-SUMM: Legal Summarization Pipeline
 
 **File:** `summary-pipeline.ipynb`
 
 ### Purpose
 
-CLARA-SUMM takes the rhetorical role-labelled sentences produced by CLARA-RR and generates structured legal summaries. It operates in two stages — extractive selection followed by abstractive rewriting — organized by rhetorical role sections.
+RRL-SUMM takes the rhetorical role-labelled sentences produced by RRL-RR and generates structured legal summaries. It operates in two stages — extractive selection followed by abstractive rewriting — organized by rhetorical role sections.
 
 ### Dataset
 
@@ -277,13 +277,13 @@ matplotlib
 seaborn
 ```
 
-### CLARA-RR Specific
+### RRL-RR Specific
 ```
 law-ai/InLegalBERT   # Base encoder (HuggingFace)
 torchcrf             # CRF decoding layer
 ```
 
-### CLARA-SUMM Specific
+### RRL-SUMM Specific
 ```
 google/pegasus-xsum  # Abstractive summarization
 t5-base              # Extractive scoring backbone
@@ -295,17 +295,17 @@ Custom Legal NER     # Fine-tuned NER model (spaCy or HuggingFace)
 ## Reproducibility Notes
 
 - All random seeds are fixed at `SEED = 42` (Python, NumPy, PyTorch).
-- CLARA-RR uses mixed precision training (`torch.cuda.amp`) for T4 memory efficiency.
+- RRL-RR uses mixed precision training (`torch.cuda.amp`) for T4 memory efficiency.
 - BERT layers 0–7 are frozen for the first 3 epochs, then progressively unfrozen at 0.5× LR from epoch 4 onward.
-- CLARA-SUMM expects labelled sentence input; it is intended to consume output from CLARA-RR.
+- RRL-SUMM expects labelled sentence input; it is intended to consume output from RRL-RR.
 
 ---
 
 ## Notes on Schema Differences
 
-CLARA-RR on LegalSeg is reported as a **4-class experiment**, distinct from experiments on the Malik dataset which use a **7-class schema**:
+RRL-RR on LegalSeg is reported as a **4-class experiment**, distinct from experiments on the Malik dataset which use a **7-class schema**:
 
 | Experiment | Schema | Docs | Classes | Macro-F1 |
 |---|---|---|---|---|
 | Malik dataset | Full 7-class | 100 | 7 | 0.6254 |
-| LegalSeg (CLARA-RR) | Reduced 4-class | 7,120 | 4 | TBD |
+| LegalSeg (RRL-RR) | Reduced 4-class | 7,120 | 4 | 0.79 |
